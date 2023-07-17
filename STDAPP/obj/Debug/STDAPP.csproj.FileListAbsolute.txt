@@ -1,0 +1,2125 @@
+F:\STD\STDAPP\STDAPP\bin\Debug\STDAPP.exe.config
+F:\STD\STDAPP\STDAPP\bin\Debug\STDAPP.exe
+F:\STD\STDAPP\STDAPP\bin\Debug\STDAPP.pdb
+F:\STD\STDAPP\STDAPP\obj\Debug\STDAPP.csprojAssemblyReference.cache
+F:\STD\STDAPP\STDAPP\obj\Debug\MainWindow.g.cs
+F:\STD\STDAPP\STDAPP\obj\Debug\App.g.cs
+F:\STD\STDAPP\STDAPP\obj\Debug\STDAPP_MarkupCompile.cache
+F:\STD\STDAPP\STDAPP\obj\Debug\STDAPP_MarkupCompile.lref
+F:\STD\STDAPP\STDAPP\obj\Debug\MainWindow.baml
+F:\STD\STDAPP\STDAPP\obj\Debug\STDAPP.g.resources
+F:\STD\STDAPP\STDAPP\obj\Debug\STDAPP.Properties.Resources.resources
+F:\STD\STDAPP\STDAPP\obj\Debug\STDAPP.csproj.GenerateResource.cache
+F:\STD\STDAPP\STDAPP\obj\Debug\STDAPP.csproj.CoreCompileInputs.cache
+F:\STD\STDAPP\STDAPP\obj\Debug\STDAPP.exe
+F:\STD\STDAPP\STDAPP\obj\Debug\STDAPP.pdb
+F:\STD\STDAPP\STDAPP\obj\Debug\Style\DictionaryStyle.baml
+F:\STD\STDAPP\STDAPP\obj\Debug\App.baml
+F:\STD\STDAPP\STDAPP\obj\Debug\SourcePage.g.cs
+F:\STD\STDAPP\STDAPP\obj\Debug\SourcePage.baml
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\STDAPP.exe.config
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\STDAPP.exe
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\STDAPP.pdb
+H:\anime\STD\STDAPP\STDAPP\obj\Debug\STDAPP.csprojAssemblyReference.cache
+H:\anime\STD\STDAPP\STDAPP\obj\Debug\SourcePage.g.cs
+H:\anime\STD\STDAPP\STDAPP\obj\Debug\MainWindow.g.cs
+H:\anime\STD\STDAPP\STDAPP\obj\Debug\App.g.cs
+H:\anime\STD\STDAPP\STDAPP\obj\Debug\STDAPP_MarkupCompile.cache
+H:\anime\STD\STDAPP\STDAPP\obj\Debug\STDAPP_MarkupCompile.lref
+H:\anime\STD\STDAPP\STDAPP\obj\Debug\App.baml
+H:\anime\STD\STDAPP\STDAPP\obj\Debug\SourcePage.baml
+H:\anime\STD\STDAPP\STDAPP\obj\Debug\MainWindow.baml
+H:\anime\STD\STDAPP\STDAPP\obj\Debug\STDAPP.g.resources
+H:\anime\STD\STDAPP\STDAPP\obj\Debug\STDAPP.Properties.Resources.resources
+H:\anime\STD\STDAPP\STDAPP\obj\Debug\STDAPP.csproj.GenerateResource.cache
+H:\anime\STD\STDAPP\STDAPP\obj\Debug\STDAPP.csproj.CoreCompileInputs.cache
+H:\anime\STD\STDAPP\STDAPP\obj\Debug\STDAPP.exe
+H:\anime\STD\STDAPP\STDAPP\obj\Debug\STDAPP.pdb
+H:\anime\STD\STDAPP\STDAPP\obj\Debug\AccountsPage.g.cs
+H:\anime\STD\STDAPP\STDAPP\obj\Debug\AccountsPage.baml
+H:\anime\STD\STDAPP\STDAPP\obj\Debug\ProfilePage.g.cs
+H:\anime\STD\STDAPP\STDAPP\obj\Debug\ProfilePage.baml
+H:\anime\STD\STDAPP\STDAPP\obj\Debug\TaskPage.g.cs
+H:\anime\STD\STDAPP\STDAPP\obj\Debug\TaskPage.baml
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\Discord.Net.Commands.dll
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\Discord.Net.Core.dll
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\Discord.Net.Rest.dll
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\Discord.Net.Webhook.dll
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\Discord.Net.WebSocket.dll
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\ICSharpCode.SharpZipLib.dll
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\Microsoft.Extensions.Logging.dll
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\Microsoft.Extensions.Options.dll
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\Microsoft.Extensions.Primitives.dll
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\Microsoft.Net.Http.Headers.dll
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\Newtonsoft.Json.dll
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Extensions.dll
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Extensions.Unsafe.dll
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\PuppeteerSharp.dll
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\System.Buffers.dll
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\System.Collections.Immutable.dll
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\System.Interactive.Async.dll
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\System.Linq.Async.dll
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\System.Text.Encodings.Web.dll
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\System.Threading.Tasks.Extensions.dll
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\Discord.Net.Commands.xml
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\Discord.Net.Core.xml
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\Discord.Net.Rest.xml
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\Discord.Net.Webhook.xml
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\Discord.Net.WebSocket.xml
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\ICSharpCode.SharpZipLib.pdb
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\ICSharpCode.SharpZipLib.xml
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\Microsoft.Extensions.Logging.xml
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\Microsoft.Extensions.Options.xml
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\Microsoft.Extensions.Primitives.xml
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\Microsoft.Net.Http.Headers.xml
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\Newtonsoft.Json.xml
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\PuppeteerSharp.xml
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Extensions.pdb
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Extensions.xml
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Extensions.Unsafe.pdb
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Extensions.Unsafe.xml
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\System.Buffers.xml
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\System.Collections.Immutable.xml
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\System.Interactive.Async.xml
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\System.Linq.Async.xml
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\System.Text.Encodings.Web.xml
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\System.Threading.Tasks.Extensions.xml
+H:\anime\STD\STDAPP\STDAPP\obj\Debug\STDAPP.csproj.CopyComplete
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\NetCoreEx.BinaryExtensions.dll
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\NetCoreEx.Geometry.dll
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\WinApi.dll
+H:\anime\STD\STDAPP\STDAPP\obj\Debug\AlertPage.g.cs
+H:\anime\STD\STDAPP\STDAPP\obj\Debug\AlertPage.baml
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\System.Drawing.Common.dll
+H:\anime\STD\STDAPP\STDAPP\obj\Debug\ProfileEditorPage.g.cs
+H:\anime\STD\STDAPP\STDAPP\obj\Debug\ProfileEditorPage.baml
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\BouncyCastle.Crypto.dll
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\DiscordRPC.dll
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\Google.Protobuf.dll
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\K4os.Compression.LZ4.dll
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\K4os.Compression.LZ4.Streams.dll
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\K4os.Hash.xxHash.dll
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\MySql.Data.dll
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\Renci.SshNet.dll
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\System.Memory.dll
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\System.Numerics.Vectors.dll
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\Ubiety.Dns.Core.dll
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\WpfAnimatedGif.dll
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\Zstandard.Net.dll
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\DiscordRPC.pdb
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\DiscordRPC.xml
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\Google.Protobuf.pdb
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\Google.Protobuf.xml
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\K4os.Compression.LZ4.xml
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\K4os.Compression.LZ4.Streams.xml
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\K4os.Hash.xxHash.xml
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\MySql.Data.xml
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\Renci.SshNet.xml
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\System.Memory.xml
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\System.Numerics.Vectors.xml
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\WpfAnimatedGif.pdb
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\WpfAnimatedGif.xml
+H:\anime\STD\STDAPP\STDAPP\obj\Debug\load.g.cs
+H:\anime\STD\STDAPP\STDAPP\obj\Debug\login.g.cs
+H:\anime\STD\STDAPP\STDAPP\obj\Debug\load.baml
+H:\anime\STD\STDAPP\STDAPP\obj\Debug\login.baml
+H:\anime\STD\STDAPP\STDAPP\obj\Debug\AutoregPage.g.cs
+H:\anime\STD\STDAPP\STDAPP\obj\Debug\AutoregPage.baml
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\ControlzEx.dll
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\Microsoft.Xaml.Behaviors.dll
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\ControlzEx.pdb
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\ControlzEx.xml
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\Microsoft.Xaml.Behaviors.xml
+H:\anime\STD\STDAPP\STDAPP\bin\Debug\ToggleSwitch.dll
+H:\anime\STD\STDAPP\STDAPP\obj\Debug\SettingsPage.g.cs
+H:\anime\STD\STDAPP\STDAPP\obj\Debug\SettingsPage.baml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\STDAPP.exe.config
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\STDAPP.exe
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\STDAPP.pdb
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\BouncyCastle.Crypto.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\ControlzEx.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Discord.Net.Commands.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Discord.Net.Core.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Discord.Net.Rest.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Discord.Net.Webhook.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Discord.Net.WebSocket.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\DiscordRPC.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Google.Protobuf.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\K4os.Compression.LZ4.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\K4os.Hash.xxHash.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Extensions.Options.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Net.Http.Headers.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\MySql.Data.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\NetCoreEx.BinaryExtensions.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\NetCoreEx.Geometry.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Newtonsoft.Json.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Extensions.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\PuppeteerSharp.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Renci.SshNet.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\System.Buffers.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\System.Collections.Immutable.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\System.Drawing.Common.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\System.Interactive.Async.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\System.Linq.Async.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\System.Memory.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\System.Numerics.Vectors.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\System.Text.Encodings.Web.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\ToggleSwitch.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Ubiety.Dns.Core.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\WinApi.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\WpfAnimatedGif.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Zstandard.Net.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\ControlzEx.pdb
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\ControlzEx.xml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Discord.Net.Commands.xml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Discord.Net.Core.xml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Discord.Net.Rest.xml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Discord.Net.Webhook.xml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Discord.Net.WebSocket.xml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\DiscordRPC.pdb
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\DiscordRPC.xml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Google.Protobuf.pdb
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Google.Protobuf.xml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\K4os.Compression.LZ4.xml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\K4os.Hash.xxHash.xml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Extensions.Options.xml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Net.Http.Headers.xml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\MySql.Data.xml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Newtonsoft.Json.xml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\PuppeteerSharp.xml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Extensions.pdb
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Extensions.xml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Renci.SshNet.xml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\System.Buffers.xml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\System.Collections.Immutable.xml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\System.Interactive.Async.xml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\System.Linq.Async.xml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\System.Memory.xml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\System.Numerics.Vectors.xml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\System.Text.Encodings.Web.xml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\WpfAnimatedGif.pdb
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\WpfAnimatedGif.xml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\STDAPP.csprojAssemblyReference.cache
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\AccountsPage.g.cs
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\AlertPage.g.cs
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\AutoregPage.g.cs
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\load.g.cs
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\login.g.cs
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\ProfileEditorPage.g.cs
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\ProfilePage.g.cs
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\SettingsPage.g.cs
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\SourcePage.g.cs
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\MainWindow.g.cs
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\TaskPage.g.cs
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\App.g.cs
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\STDAPP_MarkupCompile.cache
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\STDAPP_MarkupCompile.lref
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\App.baml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\AccountsPage.baml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\AlertPage.baml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\AutoregPage.baml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\load.baml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\login.baml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\ProfileEditorPage.baml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\ProfilePage.baml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\SettingsPage.baml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\SourcePage.baml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\MainWindow.baml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\TaskPage.baml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\STDAPP.g.resources
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\STDAPP.Properties.Resources.resources
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\STDAPP.csproj.GenerateResource.cache
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\STDAPP.csproj.CoreCompileInputs.cache
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\STDAPP.csproj.CopyComplete
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\STDAPP.exe
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\STDAPP.pdb
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\STDAPP_Content.g.cs
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\xunit.abstractions.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\xunit.assert.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\xunit.core.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\xunit.execution.desktop.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\xunit.abstractions.xml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\xunit.assert.xml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\xunit.core.xml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\xunit.execution.desktop.xml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\RestSharp.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\RestSharp.xml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Jering.IocServices.System.Net.Http.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Jering.Javascript.NodeJS.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\System.ComponentModel.Annotations.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\System.Text.Json.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\System.ValueTuple.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Jering.Javascript.NodeJS.pdb
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Jering.Javascript.NodeJS.xml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\System.Text.Json.xml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\System.ValueTuple.xml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Extensions.Http.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Extensions.Http.xml
+D:\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\STDAPP.exe.config
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\STDAPP.exe
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\STDAPP.pdb
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\BouncyCastle.Crypto.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\ControlzEx.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Discord.Net.Commands.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Discord.Net.Core.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Discord.Net.Rest.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Discord.Net.Webhook.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Discord.Net.WebSocket.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\DiscordRPC.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Google.Protobuf.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\ICSharpCode.SharpZipLib.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Jering.IocServices.System.Net.Http.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Jering.Javascript.NodeJS.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\K4os.Compression.LZ4.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\K4os.Compression.LZ4.Streams.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\K4os.Hash.xxHash.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Extensions.Http.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Extensions.Logging.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Extensions.Options.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Extensions.Primitives.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Net.Http.Headers.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Xaml.Behaviors.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\MySql.Data.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\NetCoreEx.BinaryExtensions.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\NetCoreEx.Geometry.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Newtonsoft.Json.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Extensions.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\PuppeteerSharp.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Renci.SshNet.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\RestSharp.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\System.Buffers.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\System.Collections.Immutable.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\System.ComponentModel.Annotations.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\System.Drawing.Common.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\System.Interactive.Async.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\System.Linq.Async.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\System.Memory.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\System.Numerics.Vectors.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\System.Text.Encodings.Web.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\System.Text.Json.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\System.Threading.Tasks.Extensions.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\System.ValueTuple.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\ToggleSwitch.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Ubiety.Dns.Core.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\WinApi.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\WpfAnimatedGif.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\xunit.abstractions.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\xunit.assert.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\xunit.core.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\xunit.execution.desktop.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Zstandard.Net.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\ControlzEx.pdb
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\ControlzEx.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Discord.Net.Commands.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Discord.Net.Core.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Discord.Net.Rest.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Discord.Net.Webhook.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Discord.Net.WebSocket.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\DiscordRPC.pdb
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\DiscordRPC.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Google.Protobuf.pdb
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Google.Protobuf.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\ICSharpCode.SharpZipLib.pdb
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\ICSharpCode.SharpZipLib.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Jering.Javascript.NodeJS.pdb
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Jering.Javascript.NodeJS.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\K4os.Compression.LZ4.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\K4os.Compression.LZ4.Streams.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\K4os.Hash.xxHash.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Extensions.Http.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Extensions.Logging.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Extensions.Options.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Extensions.Primitives.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Net.Http.Headers.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Microsoft.Xaml.Behaviors.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\MySql.Data.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Newtonsoft.Json.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\PuppeteerSharp.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Extensions.pdb
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Extensions.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\Renci.SshNet.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\RestSharp.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\System.Buffers.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\System.Collections.Immutable.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\System.Interactive.Async.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\System.Linq.Async.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\System.Memory.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\System.Numerics.Vectors.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\System.Text.Encodings.Web.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\System.Text.Json.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\System.Threading.Tasks.Extensions.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\System.ValueTuple.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\WpfAnimatedGif.pdb
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\WpfAnimatedGif.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\xunit.abstractions.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\xunit.assert.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\xunit.core.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\xunit.execution.desktop.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\STDAPP.csprojAssemblyReference.cache
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\AccountsPage.g.cs
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\AlertPage.g.cs
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\AutoregPage.g.cs
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\load.g.cs
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\login.g.cs
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\ProfileEditorPage.g.cs
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\ProfilePage.g.cs
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\SettingsPage.g.cs
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\SourcePage.g.cs
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\MainWindow.g.cs
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\TaskPage.g.cs
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\App.g.cs
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\STDAPP_Content.g.cs
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\STDAPP_MarkupCompile.cache
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\STDAPP_MarkupCompile.lref
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\App.baml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\AccountsPage.baml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\AlertPage.baml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\AutoregPage.baml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\load.baml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\login.baml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\ProfileEditorPage.baml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\ProfilePage.baml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\SettingsPage.baml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\SourcePage.baml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\MainWindow.baml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\TaskPage.baml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\STDAPP.g.resources
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\STDAPP.Properties.Resources.resources
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\STDAPP.csproj.GenerateResource.cache
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\STDAPP.csproj.CoreCompileInputs.cache
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\STDAPP.csproj.CopyComplete
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\STDAPP.exe
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\obj\Debug\STDAPP.pdb
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Should.dll
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Should.pdb
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Should.xml
+H:\anime\STD\STDAPP versions New\STDAPP(firstrelease)\STDAPP\STDAPP\bin\Debug\xNet.dll
+C:\animebot\STDAPP\bin\Debug\STDAPP.exe.config
+C:\animebot\STDAPP\bin\Debug\STDAPP.exe
+C:\animebot\STDAPP\bin\Debug\STDAPP.pdb
+C:\animebot\STDAPP\bin\Debug\BouncyCastle.Crypto.dll
+C:\animebot\STDAPP\bin\Debug\ControlzEx.dll
+C:\animebot\STDAPP\bin\Debug\Discord.Net.Commands.dll
+C:\animebot\STDAPP\bin\Debug\Discord.Net.Core.dll
+C:\animebot\STDAPP\bin\Debug\Discord.Net.Rest.dll
+C:\animebot\STDAPP\bin\Debug\Discord.Net.Webhook.dll
+C:\animebot\STDAPP\bin\Debug\Discord.Net.WebSocket.dll
+C:\animebot\STDAPP\bin\Debug\DiscordRPC.dll
+C:\animebot\STDAPP\bin\Debug\Google.Protobuf.dll
+C:\animebot\STDAPP\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\animebot\STDAPP\bin\Debug\Jering.IocServices.System.Net.Http.dll
+C:\animebot\STDAPP\bin\Debug\Jering.Javascript.NodeJS.dll
+C:\animebot\STDAPP\bin\Debug\K4os.Compression.LZ4.dll
+C:\animebot\STDAPP\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\animebot\STDAPP\bin\Debug\K4os.Hash.xxHash.dll
+C:\animebot\STDAPP\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\animebot\STDAPP\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\animebot\STDAPP\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\animebot\STDAPP\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\animebot\STDAPP\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\animebot\STDAPP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\animebot\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\animebot\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\animebot\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\animebot\STDAPP\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\animebot\STDAPP\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\animebot\STDAPP\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\animebot\STDAPP\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\animebot\STDAPP\bin\Debug\Microsoft.Extensions.Http.dll
+C:\animebot\STDAPP\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\animebot\STDAPP\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\animebot\STDAPP\bin\Debug\Microsoft.Extensions.Options.dll
+C:\animebot\STDAPP\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\animebot\STDAPP\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\animebot\STDAPP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\animebot\STDAPP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\animebot\STDAPP\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\animebot\STDAPP\bin\Debug\MySql.Data.dll
+C:\animebot\STDAPP\bin\Debug\NetCoreEx.BinaryExtensions.dll
+C:\animebot\STDAPP\bin\Debug\NetCoreEx.Geometry.dll
+C:\animebot\STDAPP\bin\Debug\Newtonsoft.Json.dll
+C:\animebot\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Extensions.dll
+C:\animebot\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Should.dll
+C:\animebot\STDAPP\bin\Debug\PuppeteerSharp.dll
+C:\animebot\STDAPP\bin\Debug\Renci.SshNet.dll
+C:\animebot\STDAPP\bin\Debug\RestSharp.dll
+C:\animebot\STDAPP\bin\Debug\System.Buffers.dll
+C:\animebot\STDAPP\bin\Debug\System.Collections.Immutable.dll
+C:\animebot\STDAPP\bin\Debug\System.ComponentModel.Annotations.dll
+C:\animebot\STDAPP\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\animebot\STDAPP\bin\Debug\System.Drawing.Common.dll
+C:\animebot\STDAPP\bin\Debug\System.Interactive.Async.dll
+C:\animebot\STDAPP\bin\Debug\System.Linq.Async.dll
+C:\animebot\STDAPP\bin\Debug\System.Memory.dll
+C:\animebot\STDAPP\bin\Debug\System.Numerics.Vectors.dll
+C:\animebot\STDAPP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\animebot\STDAPP\bin\Debug\System.Text.Encodings.Web.dll
+C:\animebot\STDAPP\bin\Debug\System.Text.Json.dll
+C:\animebot\STDAPP\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\animebot\STDAPP\bin\Debug\System.ValueTuple.dll
+C:\animebot\STDAPP\bin\Debug\ToggleSwitch.dll
+C:\animebot\STDAPP\bin\Debug\Ubiety.Dns.Core.dll
+C:\animebot\STDAPP\bin\Debug\WinApi.dll
+C:\animebot\STDAPP\bin\Debug\WpfAnimatedGif.dll
+C:\animebot\STDAPP\bin\Debug\xunit.abstractions.dll
+C:\animebot\STDAPP\bin\Debug\xunit.assert.dll
+C:\animebot\STDAPP\bin\Debug\xunit.core.dll
+C:\animebot\STDAPP\bin\Debug\xunit.execution.desktop.dll
+C:\animebot\STDAPP\bin\Debug\Zstandard.Net.dll
+C:\animebot\STDAPP\bin\Debug\ControlzEx.pdb
+C:\animebot\STDAPP\bin\Debug\ControlzEx.xml
+C:\animebot\STDAPP\bin\Debug\Discord.Net.Commands.xml
+C:\animebot\STDAPP\bin\Debug\Discord.Net.Core.xml
+C:\animebot\STDAPP\bin\Debug\Discord.Net.Rest.xml
+C:\animebot\STDAPP\bin\Debug\Discord.Net.Webhook.xml
+C:\animebot\STDAPP\bin\Debug\Discord.Net.WebSocket.xml
+C:\animebot\STDAPP\bin\Debug\DiscordRPC.pdb
+C:\animebot\STDAPP\bin\Debug\DiscordRPC.xml
+C:\animebot\STDAPP\bin\Debug\Google.Protobuf.pdb
+C:\animebot\STDAPP\bin\Debug\Google.Protobuf.xml
+C:\animebot\STDAPP\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\animebot\STDAPP\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\animebot\STDAPP\bin\Debug\Jering.Javascript.NodeJS.pdb
+C:\animebot\STDAPP\bin\Debug\Jering.Javascript.NodeJS.xml
+C:\animebot\STDAPP\bin\Debug\K4os.Compression.LZ4.xml
+C:\animebot\STDAPP\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\animebot\STDAPP\bin\Debug\K4os.Hash.xxHash.xml
+C:\animebot\STDAPP\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\animebot\STDAPP\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\animebot\STDAPP\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\animebot\STDAPP\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\animebot\STDAPP\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\animebot\STDAPP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\animebot\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\animebot\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\animebot\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\animebot\STDAPP\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\animebot\STDAPP\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\animebot\STDAPP\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\animebot\STDAPP\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\animebot\STDAPP\bin\Debug\Microsoft.Extensions.Http.xml
+C:\animebot\STDAPP\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\animebot\STDAPP\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\animebot\STDAPP\bin\Debug\Microsoft.Extensions.Options.xml
+C:\animebot\STDAPP\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\animebot\STDAPP\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\animebot\STDAPP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\animebot\STDAPP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\animebot\STDAPP\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\animebot\STDAPP\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\animebot\STDAPP\bin\Debug\MySql.Data.xml
+C:\animebot\STDAPP\bin\Debug\Newtonsoft.Json.xml
+C:\animebot\STDAPP\bin\Debug\PuppeteerSharp.xml
+C:\animebot\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Extensions.pdb
+C:\animebot\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Extensions.xml
+C:\animebot\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Should.pdb
+C:\animebot\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Should.xml
+C:\animebot\STDAPP\bin\Debug\Renci.SshNet.xml
+C:\animebot\STDAPP\bin\Debug\RestSharp.xml
+C:\animebot\STDAPP\bin\Debug\System.Buffers.xml
+C:\animebot\STDAPP\bin\Debug\System.Collections.Immutable.xml
+C:\animebot\STDAPP\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\animebot\STDAPP\bin\Debug\System.Interactive.Async.xml
+C:\animebot\STDAPP\bin\Debug\System.Linq.Async.xml
+C:\animebot\STDAPP\bin\Debug\System.Memory.xml
+C:\animebot\STDAPP\bin\Debug\System.Numerics.Vectors.xml
+C:\animebot\STDAPP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\animebot\STDAPP\bin\Debug\System.Text.Encodings.Web.xml
+C:\animebot\STDAPP\bin\Debug\System.Text.Json.xml
+C:\animebot\STDAPP\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\animebot\STDAPP\bin\Debug\System.ValueTuple.xml
+C:\animebot\STDAPP\bin\Debug\WpfAnimatedGif.pdb
+C:\animebot\STDAPP\bin\Debug\WpfAnimatedGif.xml
+C:\animebot\STDAPP\bin\Debug\xunit.abstractions.xml
+C:\animebot\STDAPP\bin\Debug\xunit.assert.xml
+C:\animebot\STDAPP\bin\Debug\xunit.core.xml
+C:\animebot\STDAPP\bin\Debug\xunit.execution.desktop.xml
+C:\animebot\STDAPP\obj\Debug\STDAPP.csprojAssemblyReference.cache
+C:\animebot\STDAPP\obj\Debug\AccountsPage.g.cs
+C:\animebot\STDAPP\obj\Debug\AlertPage.g.cs
+C:\animebot\STDAPP\obj\Debug\AutoregPage.g.cs
+C:\animebot\STDAPP\obj\Debug\load.g.cs
+C:\animebot\STDAPP\obj\Debug\login.g.cs
+C:\animebot\STDAPP\obj\Debug\ProfileEditorPage.g.cs
+C:\animebot\STDAPP\obj\Debug\ProfilePage.g.cs
+C:\animebot\STDAPP\obj\Debug\SettingsPage.g.cs
+C:\animebot\STDAPP\obj\Debug\SourcePage.g.cs
+C:\animebot\STDAPP\obj\Debug\MainWindow.g.cs
+C:\animebot\STDAPP\obj\Debug\TaskPage.g.cs
+C:\animebot\STDAPP\obj\Debug\App.g.cs
+C:\animebot\STDAPP\obj\Debug\STDAPP_Content.g.cs
+C:\animebot\STDAPP\obj\Debug\STDAPP_MarkupCompile.cache
+C:\animebot\STDAPP\obj\Debug\STDAPP_MarkupCompile.lref
+C:\animebot\STDAPP\obj\Debug\App.baml
+C:\animebot\STDAPP\obj\Debug\AccountsPage.baml
+C:\animebot\STDAPP\obj\Debug\AlertPage.baml
+C:\animebot\STDAPP\obj\Debug\AutoregPage.baml
+C:\animebot\STDAPP\obj\Debug\load.baml
+C:\animebot\STDAPP\obj\Debug\login.baml
+C:\animebot\STDAPP\obj\Debug\ProfileEditorPage.baml
+C:\animebot\STDAPP\obj\Debug\ProfilePage.baml
+C:\animebot\STDAPP\obj\Debug\SettingsPage.baml
+C:\animebot\STDAPP\obj\Debug\SourcePage.baml
+C:\animebot\STDAPP\obj\Debug\MainWindow.baml
+C:\animebot\STDAPP\obj\Debug\TaskPage.baml
+C:\animebot\STDAPP\obj\Debug\STDAPP.g.resources
+C:\animebot\STDAPP\obj\Debug\STDAPP.Properties.Resources.resources
+C:\animebot\STDAPP\obj\Debug\STDAPP.csproj.GenerateResource.cache
+C:\animebot\STDAPP\obj\Debug\STDAPP.csproj.CoreCompileInputs.cache
+C:\animebot\STDAPP\obj\Debug\STDAPP.csproj.CopyComplete
+C:\animebot\STDAPP\obj\Debug\STDAPP.exe
+C:\animebot\STDAPP\obj\Debug\STDAPP.pdb
+D:\23_05fix\STDAPP\bin\Debug\STDAPP.exe.config
+D:\23_05fix\STDAPP\bin\Debug\STDAPP.exe
+D:\23_05fix\STDAPP\bin\Debug\STDAPP.pdb
+D:\23_05fix\STDAPP\bin\Debug\BouncyCastle.Crypto.dll
+D:\23_05fix\STDAPP\bin\Debug\ControlzEx.dll
+D:\23_05fix\STDAPP\bin\Debug\Discord.Net.Commands.dll
+D:\23_05fix\STDAPP\bin\Debug\Discord.Net.Core.dll
+D:\23_05fix\STDAPP\bin\Debug\Discord.Net.Rest.dll
+D:\23_05fix\STDAPP\bin\Debug\Discord.Net.Webhook.dll
+D:\23_05fix\STDAPP\bin\Debug\Discord.Net.WebSocket.dll
+D:\23_05fix\STDAPP\bin\Debug\DiscordRPC.dll
+D:\23_05fix\STDAPP\bin\Debug\Google.Protobuf.dll
+D:\23_05fix\STDAPP\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\23_05fix\STDAPP\bin\Debug\Jering.IocServices.System.Net.Http.dll
+D:\23_05fix\STDAPP\bin\Debug\Jering.Javascript.NodeJS.dll
+D:\23_05fix\STDAPP\bin\Debug\K4os.Compression.LZ4.dll
+D:\23_05fix\STDAPP\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\23_05fix\STDAPP\bin\Debug\K4os.Hash.xxHash.dll
+D:\23_05fix\STDAPP\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\23_05fix\STDAPP\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\23_05fix\STDAPP\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\23_05fix\STDAPP\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+D:\23_05fix\STDAPP\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+D:\23_05fix\STDAPP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\23_05fix\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\23_05fix\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\23_05fix\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\23_05fix\STDAPP\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\23_05fix\STDAPP\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\23_05fix\STDAPP\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\23_05fix\STDAPP\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\23_05fix\STDAPP\bin\Debug\Microsoft.Extensions.Http.dll
+D:\23_05fix\STDAPP\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\23_05fix\STDAPP\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\23_05fix\STDAPP\bin\Debug\Microsoft.Extensions.Options.dll
+D:\23_05fix\STDAPP\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\23_05fix\STDAPP\bin\Debug\Microsoft.Net.Http.Headers.dll
+D:\23_05fix\STDAPP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\23_05fix\STDAPP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\23_05fix\STDAPP\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\23_05fix\STDAPP\bin\Debug\MySql.Data.dll
+D:\23_05fix\STDAPP\bin\Debug\NetCoreEx.BinaryExtensions.dll
+D:\23_05fix\STDAPP\bin\Debug\NetCoreEx.Geometry.dll
+D:\23_05fix\STDAPP\bin\Debug\Newtonsoft.Json.dll
+D:\23_05fix\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Extensions.dll
+D:\23_05fix\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Should.dll
+D:\23_05fix\STDAPP\bin\Debug\PuppeteerSharp.dll
+D:\23_05fix\STDAPP\bin\Debug\Renci.SshNet.dll
+D:\23_05fix\STDAPP\bin\Debug\RestSharp.dll
+D:\23_05fix\STDAPP\bin\Debug\System.Buffers.dll
+D:\23_05fix\STDAPP\bin\Debug\System.Collections.Immutable.dll
+D:\23_05fix\STDAPP\bin\Debug\System.ComponentModel.Annotations.dll
+D:\23_05fix\STDAPP\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\23_05fix\STDAPP\bin\Debug\System.Drawing.Common.dll
+D:\23_05fix\STDAPP\bin\Debug\System.Interactive.Async.dll
+D:\23_05fix\STDAPP\bin\Debug\System.Linq.Async.dll
+D:\23_05fix\STDAPP\bin\Debug\System.Memory.dll
+D:\23_05fix\STDAPP\bin\Debug\System.Numerics.Vectors.dll
+D:\23_05fix\STDAPP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\23_05fix\STDAPP\bin\Debug\System.Text.Encodings.Web.dll
+D:\23_05fix\STDAPP\bin\Debug\System.Text.Json.dll
+D:\23_05fix\STDAPP\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\23_05fix\STDAPP\bin\Debug\System.ValueTuple.dll
+D:\23_05fix\STDAPP\bin\Debug\ToggleSwitch.dll
+D:\23_05fix\STDAPP\bin\Debug\Ubiety.Dns.Core.dll
+D:\23_05fix\STDAPP\bin\Debug\WinApi.dll
+D:\23_05fix\STDAPP\bin\Debug\WpfAnimatedGif.dll
+D:\23_05fix\STDAPP\bin\Debug\xunit.abstractions.dll
+D:\23_05fix\STDAPP\bin\Debug\xunit.assert.dll
+D:\23_05fix\STDAPP\bin\Debug\xunit.core.dll
+D:\23_05fix\STDAPP\bin\Debug\xunit.execution.desktop.dll
+D:\23_05fix\STDAPP\bin\Debug\Zstandard.Net.dll
+D:\23_05fix\STDAPP\bin\Debug\ControlzEx.pdb
+D:\23_05fix\STDAPP\bin\Debug\ControlzEx.xml
+D:\23_05fix\STDAPP\bin\Debug\Discord.Net.Commands.xml
+D:\23_05fix\STDAPP\bin\Debug\Discord.Net.Core.xml
+D:\23_05fix\STDAPP\bin\Debug\Discord.Net.Rest.xml
+D:\23_05fix\STDAPP\bin\Debug\Discord.Net.Webhook.xml
+D:\23_05fix\STDAPP\bin\Debug\Discord.Net.WebSocket.xml
+D:\23_05fix\STDAPP\bin\Debug\DiscordRPC.pdb
+D:\23_05fix\STDAPP\bin\Debug\DiscordRPC.xml
+D:\23_05fix\STDAPP\bin\Debug\Google.Protobuf.pdb
+D:\23_05fix\STDAPP\bin\Debug\Google.Protobuf.xml
+D:\23_05fix\STDAPP\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\23_05fix\STDAPP\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\23_05fix\STDAPP\bin\Debug\Jering.Javascript.NodeJS.pdb
+D:\23_05fix\STDAPP\bin\Debug\Jering.Javascript.NodeJS.xml
+D:\23_05fix\STDAPP\bin\Debug\K4os.Compression.LZ4.xml
+D:\23_05fix\STDAPP\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\23_05fix\STDAPP\bin\Debug\K4os.Hash.xxHash.xml
+D:\23_05fix\STDAPP\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\23_05fix\STDAPP\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\23_05fix\STDAPP\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\23_05fix\STDAPP\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+D:\23_05fix\STDAPP\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+D:\23_05fix\STDAPP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\23_05fix\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\23_05fix\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\23_05fix\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\23_05fix\STDAPP\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\23_05fix\STDAPP\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\23_05fix\STDAPP\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\23_05fix\STDAPP\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\23_05fix\STDAPP\bin\Debug\Microsoft.Extensions.Http.xml
+D:\23_05fix\STDAPP\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\23_05fix\STDAPP\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\23_05fix\STDAPP\bin\Debug\Microsoft.Extensions.Options.xml
+D:\23_05fix\STDAPP\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\23_05fix\STDAPP\bin\Debug\Microsoft.Net.Http.Headers.xml
+D:\23_05fix\STDAPP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\23_05fix\STDAPP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\23_05fix\STDAPP\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\23_05fix\STDAPP\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\23_05fix\STDAPP\bin\Debug\MySql.Data.xml
+D:\23_05fix\STDAPP\bin\Debug\Newtonsoft.Json.xml
+D:\23_05fix\STDAPP\bin\Debug\PuppeteerSharp.xml
+D:\23_05fix\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Extensions.pdb
+D:\23_05fix\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Extensions.xml
+D:\23_05fix\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Should.pdb
+D:\23_05fix\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Should.xml
+D:\23_05fix\STDAPP\bin\Debug\Renci.SshNet.xml
+D:\23_05fix\STDAPP\bin\Debug\RestSharp.xml
+D:\23_05fix\STDAPP\bin\Debug\System.Buffers.xml
+D:\23_05fix\STDAPP\bin\Debug\System.Collections.Immutable.xml
+D:\23_05fix\STDAPP\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\23_05fix\STDAPP\bin\Debug\System.Interactive.Async.xml
+D:\23_05fix\STDAPP\bin\Debug\System.Linq.Async.xml
+D:\23_05fix\STDAPP\bin\Debug\System.Memory.xml
+D:\23_05fix\STDAPP\bin\Debug\System.Numerics.Vectors.xml
+D:\23_05fix\STDAPP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\23_05fix\STDAPP\bin\Debug\System.Text.Encodings.Web.xml
+D:\23_05fix\STDAPP\bin\Debug\System.Text.Json.xml
+D:\23_05fix\STDAPP\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\23_05fix\STDAPP\bin\Debug\System.ValueTuple.xml
+D:\23_05fix\STDAPP\bin\Debug\WpfAnimatedGif.pdb
+D:\23_05fix\STDAPP\bin\Debug\WpfAnimatedGif.xml
+D:\23_05fix\STDAPP\bin\Debug\xunit.abstractions.xml
+D:\23_05fix\STDAPP\bin\Debug\xunit.assert.xml
+D:\23_05fix\STDAPP\bin\Debug\xunit.core.xml
+D:\23_05fix\STDAPP\bin\Debug\xunit.execution.desktop.xml
+D:\23_05fix\STDAPP\obj\Debug\STDAPP.csprojAssemblyReference.cache
+D:\23_05fix\STDAPP\obj\Debug\AccountsPage.g.cs
+D:\23_05fix\STDAPP\obj\Debug\AlertPage.g.cs
+D:\23_05fix\STDAPP\obj\Debug\AutoregPage.g.cs
+D:\23_05fix\STDAPP\obj\Debug\load.g.cs
+D:\23_05fix\STDAPP\obj\Debug\login.g.cs
+D:\23_05fix\STDAPP\obj\Debug\ProfileEditorPage.g.cs
+D:\23_05fix\STDAPP\obj\Debug\ProfilePage.g.cs
+D:\23_05fix\STDAPP\obj\Debug\SettingsPage.g.cs
+D:\23_05fix\STDAPP\obj\Debug\SourcePage.g.cs
+D:\23_05fix\STDAPP\obj\Debug\MainWindow.g.cs
+D:\23_05fix\STDAPP\obj\Debug\TaskPage.g.cs
+D:\23_05fix\STDAPP\obj\Debug\App.g.cs
+D:\23_05fix\STDAPP\obj\Debug\STDAPP_Content.g.cs
+D:\23_05fix\STDAPP\obj\Debug\STDAPP_MarkupCompile.cache
+D:\23_05fix\STDAPP\obj\Debug\STDAPP_MarkupCompile.lref
+D:\23_05fix\STDAPP\obj\Debug\App.baml
+D:\23_05fix\STDAPP\obj\Debug\AccountsPage.baml
+D:\23_05fix\STDAPP\obj\Debug\AlertPage.baml
+D:\23_05fix\STDAPP\obj\Debug\AutoregPage.baml
+D:\23_05fix\STDAPP\obj\Debug\load.baml
+D:\23_05fix\STDAPP\obj\Debug\login.baml
+D:\23_05fix\STDAPP\obj\Debug\ProfileEditorPage.baml
+D:\23_05fix\STDAPP\obj\Debug\ProfilePage.baml
+D:\23_05fix\STDAPP\obj\Debug\SettingsPage.baml
+D:\23_05fix\STDAPP\obj\Debug\SourcePage.baml
+D:\23_05fix\STDAPP\obj\Debug\MainWindow.baml
+D:\23_05fix\STDAPP\obj\Debug\TaskPage.baml
+D:\23_05fix\STDAPP\obj\Debug\STDAPP.g.resources
+D:\23_05fix\STDAPP\obj\Debug\STDAPP.Properties.Resources.resources
+D:\23_05fix\STDAPP\obj\Debug\STDAPP.csproj.GenerateResource.cache
+D:\23_05fix\STDAPP\obj\Debug\STDAPP.csproj.CoreCompileInputs.cache
+D:\23_05fix\STDAPP\obj\Debug\STDAPP.csproj.CopyComplete
+D:\23_05fix\STDAPP\obj\Debug\STDAPP.exe
+D:\23_05fix\STDAPP\obj\Debug\STDAPP.pdb
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\STDAPP.exe.config
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\STDAPP.exe
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\STDAPP.pdb
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\BouncyCastle.Crypto.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\ControlzEx.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Discord.Net.Commands.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Discord.Net.Core.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Discord.Net.Rest.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Discord.Net.Webhook.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Discord.Net.WebSocket.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\DiscordRPC.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Google.Protobuf.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\ICSharpCode.SharpZipLib.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Jering.IocServices.System.Net.Http.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Jering.Javascript.NodeJS.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\K4os.Compression.LZ4.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\K4os.Compression.LZ4.Streams.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\K4os.Hash.xxHash.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Microsoft.Extensions.Http.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Microsoft.Extensions.Logging.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Microsoft.Extensions.Options.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Microsoft.Extensions.Primitives.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Microsoft.Net.Http.Headers.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Microsoft.Xaml.Behaviors.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\MySql.Data.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\NetCoreEx.BinaryExtensions.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\NetCoreEx.Geometry.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Newtonsoft.Json.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Extensions.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Should.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\PuppeteerSharp.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Renci.SshNet.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\RestSharp.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\System.Buffers.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\System.Collections.Immutable.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\System.ComponentModel.Annotations.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\System.Drawing.Common.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\System.Interactive.Async.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\System.Linq.Async.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\System.Memory.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\System.Numerics.Vectors.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\System.Text.Encodings.Web.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\System.Text.Json.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\System.Threading.Tasks.Extensions.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\System.ValueTuple.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\ToggleSwitch.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Ubiety.Dns.Core.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\WinApi.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\WpfAnimatedGif.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\xNet.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\xunit.abstractions.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\xunit.assert.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\xunit.core.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\xunit.execution.desktop.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Zstandard.Net.dll
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\ControlzEx.pdb
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\ControlzEx.xml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Discord.Net.Commands.xml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Discord.Net.Core.xml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Discord.Net.Rest.xml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Discord.Net.Webhook.xml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Discord.Net.WebSocket.xml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\DiscordRPC.pdb
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\DiscordRPC.xml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Google.Protobuf.pdb
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Google.Protobuf.xml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\ICSharpCode.SharpZipLib.pdb
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\ICSharpCode.SharpZipLib.xml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Jering.Javascript.NodeJS.pdb
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Jering.Javascript.NodeJS.xml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\K4os.Compression.LZ4.xml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\K4os.Compression.LZ4.Streams.xml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\K4os.Hash.xxHash.xml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.xml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Microsoft.Extensions.Http.xml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Microsoft.Extensions.Logging.xml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Microsoft.Extensions.Options.xml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Microsoft.Extensions.Primitives.xml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Microsoft.Net.Http.Headers.xml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Microsoft.Xaml.Behaviors.xml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\MySql.Data.xml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Newtonsoft.Json.xml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\PuppeteerSharp.xml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Extensions.pdb
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Extensions.xml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Should.pdb
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Should.xml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\Renci.SshNet.xml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\RestSharp.xml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\System.Buffers.xml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\System.Collections.Immutable.xml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\System.Interactive.Async.xml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\System.Linq.Async.xml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\System.Memory.xml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\System.Numerics.Vectors.xml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\System.Text.Encodings.Web.xml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\System.Text.Json.xml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\System.Threading.Tasks.Extensions.xml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\System.ValueTuple.xml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\WpfAnimatedGif.pdb
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\WpfAnimatedGif.xml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\xunit.abstractions.xml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\xunit.assert.xml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\xunit.core.xml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\bin\Debug\xunit.execution.desktop.xml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\obj\Debug\STDAPP.csprojAssemblyReference.cache
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\obj\Debug\AccountsPage.g.cs
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\obj\Debug\AlertPage.g.cs
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\obj\Debug\AutoregPage.g.cs
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\obj\Debug\ProfileEditorPage.g.cs
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\obj\Debug\ProfilePage.g.cs
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\obj\Debug\SettingsPage.g.cs
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\obj\Debug\SourcePage.g.cs
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\obj\Debug\MainWindow.g.cs
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\obj\Debug\TaskPage.g.cs
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\obj\Debug\App.g.cs
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\obj\Debug\STDAPP_Content.g.cs
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\obj\Debug\STDAPP_MarkupCompile.cache
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\obj\Debug\STDAPP_MarkupCompile.lref
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\obj\Debug\App.baml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\obj\Debug\AccountsPage.baml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\obj\Debug\AlertPage.baml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\obj\Debug\AutoregPage.baml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\obj\Debug\ProfileEditorPage.baml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\obj\Debug\ProfilePage.baml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\obj\Debug\SettingsPage.baml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\obj\Debug\SourcePage.baml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\obj\Debug\MainWindow.baml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\obj\Debug\TaskPage.baml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\obj\Debug\STDAPP.g.resources
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\obj\Debug\STDAPP.Properties.Resources.resources
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\obj\Debug\STDAPP.csproj.GenerateResource.cache
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\obj\Debug\STDAPP.csproj.CoreCompileInputs.cache
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\obj\Debug\STDAPP.csproj.CopyComplete
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\obj\Debug\STDAPP.exe
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\obj\Debug\STDAPP.pdb
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\obj\Debug\load.g.cs
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\obj\Debug\login.g.cs
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\obj\Debug\load.baml
+H:\anime\STD\STDAPP versions New\23_05fix\STDAPP\obj\Debug\login.baml
+D:\12_06LastV\STDAPP\bin\Debug\STDAPP.exe.config
+D:\12_06LastV\STDAPP\bin\Debug\STDAPP.exe
+D:\12_06LastV\STDAPP\bin\Debug\STDAPP.pdb
+D:\12_06LastV\STDAPP\bin\Debug\BouncyCastle.Crypto.dll
+D:\12_06LastV\STDAPP\bin\Debug\ControlzEx.dll
+D:\12_06LastV\STDAPP\bin\Debug\Discord.Net.Commands.dll
+D:\12_06LastV\STDAPP\bin\Debug\Discord.Net.Core.dll
+D:\12_06LastV\STDAPP\bin\Debug\Discord.Net.Rest.dll
+D:\12_06LastV\STDAPP\bin\Debug\Discord.Net.Webhook.dll
+D:\12_06LastV\STDAPP\bin\Debug\Discord.Net.WebSocket.dll
+D:\12_06LastV\STDAPP\bin\Debug\DiscordRPC.dll
+D:\12_06LastV\STDAPP\bin\Debug\Google.Protobuf.dll
+D:\12_06LastV\STDAPP\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\12_06LastV\STDAPP\bin\Debug\Jering.IocServices.System.Net.Http.dll
+D:\12_06LastV\STDAPP\bin\Debug\Jering.Javascript.NodeJS.dll
+D:\12_06LastV\STDAPP\bin\Debug\K4os.Compression.LZ4.dll
+D:\12_06LastV\STDAPP\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\12_06LastV\STDAPP\bin\Debug\K4os.Hash.xxHash.dll
+D:\12_06LastV\STDAPP\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\12_06LastV\STDAPP\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\12_06LastV\STDAPP\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\12_06LastV\STDAPP\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+D:\12_06LastV\STDAPP\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+D:\12_06LastV\STDAPP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.Http.dll
+D:\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.Options.dll
+D:\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\12_06LastV\STDAPP\bin\Debug\Microsoft.Net.Http.Headers.dll
+D:\12_06LastV\STDAPP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\12_06LastV\STDAPP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\12_06LastV\STDAPP\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\12_06LastV\STDAPP\bin\Debug\MySql.Data.dll
+D:\12_06LastV\STDAPP\bin\Debug\NetCoreEx.BinaryExtensions.dll
+D:\12_06LastV\STDAPP\bin\Debug\NetCoreEx.Geometry.dll
+D:\12_06LastV\STDAPP\bin\Debug\Newtonsoft.Json.dll
+D:\12_06LastV\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Extensions.dll
+D:\12_06LastV\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Should.dll
+D:\12_06LastV\STDAPP\bin\Debug\PuppeteerSharp.dll
+D:\12_06LastV\STDAPP\bin\Debug\Renci.SshNet.dll
+D:\12_06LastV\STDAPP\bin\Debug\RestSharp.dll
+D:\12_06LastV\STDAPP\bin\Debug\System.Buffers.dll
+D:\12_06LastV\STDAPP\bin\Debug\System.Collections.Immutable.dll
+D:\12_06LastV\STDAPP\bin\Debug\System.ComponentModel.Annotations.dll
+D:\12_06LastV\STDAPP\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\12_06LastV\STDAPP\bin\Debug\System.Drawing.Common.dll
+D:\12_06LastV\STDAPP\bin\Debug\System.Interactive.Async.dll
+D:\12_06LastV\STDAPP\bin\Debug\System.Linq.Async.dll
+D:\12_06LastV\STDAPP\bin\Debug\System.Memory.dll
+D:\12_06LastV\STDAPP\bin\Debug\System.Numerics.Vectors.dll
+D:\12_06LastV\STDAPP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\12_06LastV\STDAPP\bin\Debug\System.Text.Encodings.Web.dll
+D:\12_06LastV\STDAPP\bin\Debug\System.Text.Json.dll
+D:\12_06LastV\STDAPP\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\12_06LastV\STDAPP\bin\Debug\System.ValueTuple.dll
+D:\12_06LastV\STDAPP\bin\Debug\ToggleSwitch.dll
+D:\12_06LastV\STDAPP\bin\Debug\Ubiety.Dns.Core.dll
+D:\12_06LastV\STDAPP\bin\Debug\WinApi.dll
+D:\12_06LastV\STDAPP\bin\Debug\WpfAnimatedGif.dll
+D:\12_06LastV\STDAPP\bin\Debug\xunit.abstractions.dll
+D:\12_06LastV\STDAPP\bin\Debug\xunit.assert.dll
+D:\12_06LastV\STDAPP\bin\Debug\xunit.core.dll
+D:\12_06LastV\STDAPP\bin\Debug\xunit.execution.desktop.dll
+D:\12_06LastV\STDAPP\bin\Debug\Zstandard.Net.dll
+D:\12_06LastV\STDAPP\bin\Debug\ControlzEx.pdb
+D:\12_06LastV\STDAPP\bin\Debug\ControlzEx.xml
+D:\12_06LastV\STDAPP\bin\Debug\Discord.Net.Commands.xml
+D:\12_06LastV\STDAPP\bin\Debug\Discord.Net.Core.xml
+D:\12_06LastV\STDAPP\bin\Debug\Discord.Net.Rest.xml
+D:\12_06LastV\STDAPP\bin\Debug\Discord.Net.Webhook.xml
+D:\12_06LastV\STDAPP\bin\Debug\Discord.Net.WebSocket.xml
+D:\12_06LastV\STDAPP\bin\Debug\DiscordRPC.pdb
+D:\12_06LastV\STDAPP\bin\Debug\DiscordRPC.xml
+D:\12_06LastV\STDAPP\bin\Debug\Google.Protobuf.pdb
+D:\12_06LastV\STDAPP\bin\Debug\Google.Protobuf.xml
+D:\12_06LastV\STDAPP\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\12_06LastV\STDAPP\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\12_06LastV\STDAPP\bin\Debug\Jering.Javascript.NodeJS.pdb
+D:\12_06LastV\STDAPP\bin\Debug\Jering.Javascript.NodeJS.xml
+D:\12_06LastV\STDAPP\bin\Debug\K4os.Compression.LZ4.xml
+D:\12_06LastV\STDAPP\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\12_06LastV\STDAPP\bin\Debug\K4os.Hash.xxHash.xml
+D:\12_06LastV\STDAPP\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\12_06LastV\STDAPP\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\12_06LastV\STDAPP\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\12_06LastV\STDAPP\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+D:\12_06LastV\STDAPP\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+D:\12_06LastV\STDAPP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.Http.xml
+D:\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.Options.xml
+D:\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\12_06LastV\STDAPP\bin\Debug\Microsoft.Net.Http.Headers.xml
+D:\12_06LastV\STDAPP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\12_06LastV\STDAPP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\12_06LastV\STDAPP\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\12_06LastV\STDAPP\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\12_06LastV\STDAPP\bin\Debug\MySql.Data.xml
+D:\12_06LastV\STDAPP\bin\Debug\Newtonsoft.Json.xml
+D:\12_06LastV\STDAPP\bin\Debug\PuppeteerSharp.xml
+D:\12_06LastV\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Extensions.pdb
+D:\12_06LastV\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Extensions.xml
+D:\12_06LastV\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Should.pdb
+D:\12_06LastV\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Should.xml
+D:\12_06LastV\STDAPP\bin\Debug\Renci.SshNet.xml
+D:\12_06LastV\STDAPP\bin\Debug\RestSharp.xml
+D:\12_06LastV\STDAPP\bin\Debug\System.Buffers.xml
+D:\12_06LastV\STDAPP\bin\Debug\System.Collections.Immutable.xml
+D:\12_06LastV\STDAPP\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\12_06LastV\STDAPP\bin\Debug\System.Interactive.Async.xml
+D:\12_06LastV\STDAPP\bin\Debug\System.Linq.Async.xml
+D:\12_06LastV\STDAPP\bin\Debug\System.Memory.xml
+D:\12_06LastV\STDAPP\bin\Debug\System.Numerics.Vectors.xml
+D:\12_06LastV\STDAPP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\12_06LastV\STDAPP\bin\Debug\System.Text.Encodings.Web.xml
+D:\12_06LastV\STDAPP\bin\Debug\System.Text.Json.xml
+D:\12_06LastV\STDAPP\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\12_06LastV\STDAPP\bin\Debug\System.ValueTuple.xml
+D:\12_06LastV\STDAPP\bin\Debug\WpfAnimatedGif.pdb
+D:\12_06LastV\STDAPP\bin\Debug\WpfAnimatedGif.xml
+D:\12_06LastV\STDAPP\bin\Debug\xunit.abstractions.xml
+D:\12_06LastV\STDAPP\bin\Debug\xunit.assert.xml
+D:\12_06LastV\STDAPP\bin\Debug\xunit.core.xml
+D:\12_06LastV\STDAPP\bin\Debug\xunit.execution.desktop.xml
+D:\12_06LastV\STDAPP\obj\Debug\STDAPP.csprojAssemblyReference.cache
+D:\12_06LastV\STDAPP\obj\Debug\AccountsPage.g.cs
+D:\12_06LastV\STDAPP\obj\Debug\AlertPage.g.cs
+D:\12_06LastV\STDAPP\obj\Debug\AutoregPage.g.cs
+D:\12_06LastV\STDAPP\obj\Debug\load.g.cs
+D:\12_06LastV\STDAPP\obj\Debug\login.g.cs
+D:\12_06LastV\STDAPP\obj\Debug\ProfileEditorPage.g.cs
+D:\12_06LastV\STDAPP\obj\Debug\ProfilePage.g.cs
+D:\12_06LastV\STDAPP\obj\Debug\SettingsPage.g.cs
+D:\12_06LastV\STDAPP\obj\Debug\SourcePage.g.cs
+D:\12_06LastV\STDAPP\obj\Debug\MainWindow.g.cs
+D:\12_06LastV\STDAPP\obj\Debug\TaskPage.g.cs
+D:\12_06LastV\STDAPP\obj\Debug\App.g.cs
+D:\12_06LastV\STDAPP\obj\Debug\STDAPP_Content.g.cs
+D:\12_06LastV\STDAPP\obj\Debug\STDAPP_MarkupCompile.cache
+D:\12_06LastV\STDAPP\obj\Debug\STDAPP_MarkupCompile.lref
+D:\12_06LastV\STDAPP\obj\Debug\App.baml
+D:\12_06LastV\STDAPP\obj\Debug\AccountsPage.baml
+D:\12_06LastV\STDAPP\obj\Debug\AlertPage.baml
+D:\12_06LastV\STDAPP\obj\Debug\AutoregPage.baml
+D:\12_06LastV\STDAPP\obj\Debug\load.baml
+D:\12_06LastV\STDAPP\obj\Debug\login.baml
+D:\12_06LastV\STDAPP\obj\Debug\ProfileEditorPage.baml
+D:\12_06LastV\STDAPP\obj\Debug\ProfilePage.baml
+D:\12_06LastV\STDAPP\obj\Debug\SettingsPage.baml
+D:\12_06LastV\STDAPP\obj\Debug\SourcePage.baml
+D:\12_06LastV\STDAPP\obj\Debug\MainWindow.baml
+D:\12_06LastV\STDAPP\obj\Debug\TaskPage.baml
+D:\12_06LastV\STDAPP\obj\Debug\STDAPP.g.resources
+D:\12_06LastV\STDAPP\obj\Debug\STDAPP.Properties.Resources.resources
+D:\12_06LastV\STDAPP\obj\Debug\STDAPP.csproj.GenerateResource.cache
+D:\12_06LastV\STDAPP\obj\Debug\STDAPP.csproj.CoreCompileInputs.cache
+D:\12_06LastV\STDAPP\obj\Debug\STDAPP.csproj.CopyComplete
+D:\12_06LastV\STDAPP\obj\Debug\STDAPP.exe
+D:\12_06LastV\STDAPP\obj\Debug\STDAPP.pdb
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\STDAPP.exe.config
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\STDAPP.exe
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\STDAPP.pdb
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\BouncyCastle.Crypto.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\ControlzEx.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Discord.Net.Commands.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Discord.Net.Core.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Discord.Net.Rest.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Discord.Net.Webhook.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Discord.Net.WebSocket.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\DiscordRPC.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Google.Protobuf.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\ICSharpCode.SharpZipLib.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Jering.IocServices.System.Net.Http.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Jering.Javascript.NodeJS.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\K4os.Compression.LZ4.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\K4os.Compression.LZ4.Streams.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\K4os.Hash.xxHash.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.Http.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.Logging.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.Options.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.Primitives.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Microsoft.Net.Http.Headers.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Microsoft.Xaml.Behaviors.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\MySql.Data.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\NetCoreEx.BinaryExtensions.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\NetCoreEx.Geometry.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Newtonsoft.Json.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Extensions.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Should.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\PuppeteerSharp.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Renci.SshNet.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\RestSharp.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\System.Buffers.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\System.Collections.Immutable.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\System.ComponentModel.Annotations.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\System.Drawing.Common.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\System.Interactive.Async.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\System.Linq.Async.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\System.Memory.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\System.Numerics.Vectors.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\System.Text.Encodings.Web.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\System.Text.Json.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\System.Threading.Tasks.Extensions.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\System.ValueTuple.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\ToggleSwitch.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Ubiety.Dns.Core.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\WinApi.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\WpfAnimatedGif.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\xNet.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\xunit.abstractions.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\xunit.assert.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\xunit.core.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\xunit.execution.desktop.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Zstandard.Net.dll
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\ControlzEx.pdb
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\ControlzEx.xml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Discord.Net.Commands.xml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Discord.Net.Core.xml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Discord.Net.Rest.xml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Discord.Net.Webhook.xml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Discord.Net.WebSocket.xml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\DiscordRPC.pdb
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\DiscordRPC.xml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Google.Protobuf.pdb
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Google.Protobuf.xml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\ICSharpCode.SharpZipLib.pdb
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\ICSharpCode.SharpZipLib.xml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Jering.Javascript.NodeJS.pdb
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Jering.Javascript.NodeJS.xml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\K4os.Compression.LZ4.xml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\K4os.Compression.LZ4.Streams.xml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\K4os.Hash.xxHash.xml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.xml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.Http.xml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.Logging.xml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.Options.xml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.Primitives.xml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Microsoft.Net.Http.Headers.xml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Microsoft.Xaml.Behaviors.xml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\MySql.Data.xml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Newtonsoft.Json.xml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\PuppeteerSharp.xml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Extensions.pdb
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Extensions.xml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Should.pdb
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Should.xml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\Renci.SshNet.xml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\RestSharp.xml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\System.Buffers.xml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\System.Collections.Immutable.xml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\System.Interactive.Async.xml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\System.Linq.Async.xml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\System.Memory.xml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\System.Numerics.Vectors.xml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\System.Text.Encodings.Web.xml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\System.Text.Json.xml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\System.Threading.Tasks.Extensions.xml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\System.ValueTuple.xml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\WpfAnimatedGif.pdb
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\WpfAnimatedGif.xml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\xunit.abstractions.xml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\xunit.assert.xml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\xunit.core.xml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\bin\Debug\xunit.execution.desktop.xml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\obj\Debug\STDAPP.csprojAssemblyReference.cache
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\obj\Debug\AccountsPage.g.cs
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\obj\Debug\AlertPage.g.cs
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\obj\Debug\AutoregPage.g.cs
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\obj\Debug\load.g.cs
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\obj\Debug\login.g.cs
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\obj\Debug\ProfileEditorPage.g.cs
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\obj\Debug\ProfilePage.g.cs
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\obj\Debug\SettingsPage.g.cs
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\obj\Debug\SourcePage.g.cs
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\obj\Debug\MainWindow.g.cs
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\obj\Debug\TaskPage.g.cs
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\obj\Debug\App.g.cs
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\obj\Debug\STDAPP_Content.g.cs
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\obj\Debug\STDAPP_MarkupCompile.cache
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\obj\Debug\STDAPP_MarkupCompile.lref
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\obj\Debug\App.baml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\obj\Debug\AccountsPage.baml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\obj\Debug\AlertPage.baml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\obj\Debug\AutoregPage.baml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\obj\Debug\load.baml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\obj\Debug\login.baml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\obj\Debug\ProfileEditorPage.baml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\obj\Debug\ProfilePage.baml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\obj\Debug\SettingsPage.baml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\obj\Debug\SourcePage.baml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\obj\Debug\MainWindow.baml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\obj\Debug\TaskPage.baml
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\obj\Debug\STDAPP.g.resources
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\obj\Debug\STDAPP.Properties.Resources.resources
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\obj\Debug\STDAPP.csproj.GenerateResource.cache
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\obj\Debug\STDAPP.csproj.CoreCompileInputs.cache
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\obj\Debug\STDAPP.csproj.CopyComplete
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\obj\Debug\STDAPP.exe
+H:\anime\STD\STDAPP versions New\PreNew\12_06LastV\STDAPP\obj\Debug\STDAPP.pdb
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\STDAPP.exe.config
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\STDAPP.exe
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\STDAPP.pdb
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\BouncyCastle.Crypto.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\ControlzEx.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Discord.Net.Commands.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Discord.Net.Core.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Discord.Net.Rest.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Discord.Net.Webhook.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Discord.Net.WebSocket.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\DiscordRPC.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Google.Protobuf.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Jering.IocServices.System.Net.Http.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Jering.Javascript.NodeJS.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\K4os.Compression.LZ4.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\K4os.Hash.xxHash.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.Http.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.Options.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Microsoft.Net.Http.Headers.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Microsoft.Xaml.Behaviors.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\MySql.Data.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\NetCoreEx.BinaryExtensions.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\NetCoreEx.Geometry.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Newtonsoft.Json.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Extensions.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Should.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\PuppeteerSharp.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Renci.SshNet.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\RestSharp.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\System.Buffers.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\System.Collections.Immutable.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\System.ComponentModel.Annotations.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\System.Drawing.Common.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\System.Interactive.Async.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\System.Linq.Async.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\System.Memory.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\System.Numerics.Vectors.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\System.Text.Encodings.Web.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\System.Text.Json.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\System.ValueTuple.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\ToggleSwitch.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Ubiety.Dns.Core.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\WinApi.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\WpfAnimatedGif.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\xunit.abstractions.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\xunit.assert.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\xunit.core.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\xunit.execution.desktop.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Zstandard.Net.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\ControlzEx.pdb
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\ControlzEx.xml
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Discord.Net.Commands.xml
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Discord.Net.Core.xml
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Discord.Net.Rest.xml
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Discord.Net.Webhook.xml
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Discord.Net.WebSocket.xml
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\DiscordRPC.pdb
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\DiscordRPC.xml
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Google.Protobuf.pdb
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Google.Protobuf.xml
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Jering.Javascript.NodeJS.pdb
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Jering.Javascript.NodeJS.xml
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\K4os.Compression.LZ4.xml
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\K4os.Hash.xxHash.xml
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.Http.xml
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.Options.xml
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Microsoft.Net.Http.Headers.xml
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Microsoft.Xaml.Behaviors.xml
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\MySql.Data.xml
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Newtonsoft.Json.xml
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\PuppeteerSharp.xml
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Extensions.pdb
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Extensions.xml
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Should.pdb
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Should.xml
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Renci.SshNet.xml
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\RestSharp.xml
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\System.Buffers.xml
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\System.Collections.Immutable.xml
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\System.Interactive.Async.xml
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\System.Linq.Async.xml
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\System.Memory.xml
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\System.Numerics.Vectors.xml
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\System.Text.Encodings.Web.xml
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\System.Text.Json.xml
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\System.ValueTuple.xml
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\WpfAnimatedGif.pdb
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\WpfAnimatedGif.xml
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\xunit.abstractions.xml
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\xunit.assert.xml
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\xunit.core.xml
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\xunit.execution.desktop.xml
+E:\23_06DNS1release\12_06LastV\STDAPP\obj\Debug\STDAPP.csprojAssemblyReference.cache
+E:\23_06DNS1release\12_06LastV\STDAPP\obj\Debug\AccountsPage.g.cs
+E:\23_06DNS1release\12_06LastV\STDAPP\obj\Debug\AlertPage.g.cs
+E:\23_06DNS1release\12_06LastV\STDAPP\obj\Debug\AutoregPage.g.cs
+E:\23_06DNS1release\12_06LastV\STDAPP\obj\Debug\load.g.cs
+E:\23_06DNS1release\12_06LastV\STDAPP\obj\Debug\login.g.cs
+E:\23_06DNS1release\12_06LastV\STDAPP\obj\Debug\ProfileEditorPage.g.cs
+E:\23_06DNS1release\12_06LastV\STDAPP\obj\Debug\ProfilePage.g.cs
+E:\23_06DNS1release\12_06LastV\STDAPP\obj\Debug\SettingsPage.g.cs
+E:\23_06DNS1release\12_06LastV\STDAPP\obj\Debug\SourcePage.g.cs
+E:\23_06DNS1release\12_06LastV\STDAPP\obj\Debug\MainWindow.g.cs
+E:\23_06DNS1release\12_06LastV\STDAPP\obj\Debug\TaskPage.g.cs
+E:\23_06DNS1release\12_06LastV\STDAPP\obj\Debug\App.g.cs
+E:\23_06DNS1release\12_06LastV\STDAPP\obj\Debug\STDAPP_Content.g.cs
+E:\23_06DNS1release\12_06LastV\STDAPP\obj\Debug\STDAPP_MarkupCompile.cache
+E:\23_06DNS1release\12_06LastV\STDAPP\obj\Debug\STDAPP_MarkupCompile.lref
+E:\23_06DNS1release\12_06LastV\STDAPP\obj\Debug\App.baml
+E:\23_06DNS1release\12_06LastV\STDAPP\obj\Debug\AccountsPage.baml
+E:\23_06DNS1release\12_06LastV\STDAPP\obj\Debug\AlertPage.baml
+E:\23_06DNS1release\12_06LastV\STDAPP\obj\Debug\AutoregPage.baml
+E:\23_06DNS1release\12_06LastV\STDAPP\obj\Debug\load.baml
+E:\23_06DNS1release\12_06LastV\STDAPP\obj\Debug\login.baml
+E:\23_06DNS1release\12_06LastV\STDAPP\obj\Debug\ProfileEditorPage.baml
+E:\23_06DNS1release\12_06LastV\STDAPP\obj\Debug\ProfilePage.baml
+E:\23_06DNS1release\12_06LastV\STDAPP\obj\Debug\SettingsPage.baml
+E:\23_06DNS1release\12_06LastV\STDAPP\obj\Debug\SourcePage.baml
+E:\23_06DNS1release\12_06LastV\STDAPP\obj\Debug\MainWindow.baml
+E:\23_06DNS1release\12_06LastV\STDAPP\obj\Debug\TaskPage.baml
+E:\23_06DNS1release\12_06LastV\STDAPP\obj\Debug\STDAPP.g.resources
+E:\23_06DNS1release\12_06LastV\STDAPP\obj\Debug\STDAPP.Properties.Resources.resources
+E:\23_06DNS1release\12_06LastV\STDAPP\obj\Debug\STDAPP.csproj.GenerateResource.cache
+E:\23_06DNS1release\12_06LastV\STDAPP\obj\Debug\STDAPP.csproj.CoreCompileInputs.cache
+E:\23_06DNS1release\12_06LastV\STDAPP\obj\Debug\STDAPP.csproj.CopyComplete
+E:\23_06DNS1release\12_06LastV\STDAPP\obj\Debug\STDAPP.exe
+E:\23_06DNS1release\12_06LastV\STDAPP\obj\Debug\STDAPP.pdb
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Leaf.xNet.dll
+E:\23_06DNS1release\12_06LastV\STDAPP\bin\Debug\Leaf.xNet.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\STDAPP.exe.config
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\STDAPP.exe
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\STDAPP.pdb
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\BouncyCastle.Crypto.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\ControlzEx.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Discord.Net.Commands.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Discord.Net.Core.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Discord.Net.Rest.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Discord.Net.Webhook.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Discord.Net.WebSocket.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\DiscordRPC.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Google.Protobuf.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\ICSharpCode.SharpZipLib.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Jering.IocServices.System.Net.Http.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Jering.Javascript.NodeJS.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\K4os.Compression.LZ4.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\K4os.Compression.LZ4.Streams.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\K4os.Hash.xxHash.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Leaf.xNet.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Microsoft.Extensions.Http.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Microsoft.Extensions.Logging.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Microsoft.Extensions.Options.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Microsoft.Extensions.Primitives.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Microsoft.Net.Http.Headers.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Microsoft.Xaml.Behaviors.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\MySql.Data.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\NetCoreEx.BinaryExtensions.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\NetCoreEx.Geometry.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Newtonsoft.Json.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Extensions.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Should.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\PuppeteerSharp.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Renci.SshNet.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\RestSharp.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\System.Buffers.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\System.Collections.Immutable.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\System.ComponentModel.Annotations.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\System.Drawing.Common.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\System.Interactive.Async.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\System.Linq.Async.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\System.Memory.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\System.Numerics.Vectors.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\System.Text.Encodings.Web.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\System.Text.Json.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\System.Threading.Tasks.Extensions.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\System.ValueTuple.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\ToggleSwitch.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Ubiety.Dns.Core.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\WinApi.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\WpfAnimatedGif.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\xNet.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\xunit.abstractions.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\xunit.assert.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\xunit.core.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\xunit.execution.desktop.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Zstandard.Net.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\ControlzEx.pdb
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\ControlzEx.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Discord.Net.Commands.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Discord.Net.Core.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Discord.Net.Rest.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Discord.Net.Webhook.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Discord.Net.WebSocket.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\DiscordRPC.pdb
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\DiscordRPC.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Google.Protobuf.pdb
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Google.Protobuf.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\ICSharpCode.SharpZipLib.pdb
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\ICSharpCode.SharpZipLib.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Jering.Javascript.NodeJS.pdb
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Jering.Javascript.NodeJS.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\K4os.Compression.LZ4.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\K4os.Compression.LZ4.Streams.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\K4os.Hash.xxHash.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Leaf.xNet.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Microsoft.Extensions.Http.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Microsoft.Extensions.Logging.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Microsoft.Extensions.Options.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Microsoft.Extensions.Primitives.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Microsoft.Net.Http.Headers.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Microsoft.Xaml.Behaviors.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\MySql.Data.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Newtonsoft.Json.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\PuppeteerSharp.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Extensions.pdb
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Extensions.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Should.pdb
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Should.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\Renci.SshNet.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\RestSharp.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\System.Buffers.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\System.Collections.Immutable.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\System.Interactive.Async.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\System.Linq.Async.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\System.Memory.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\System.Numerics.Vectors.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\System.Text.Encodings.Web.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\System.Text.Json.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\System.Threading.Tasks.Extensions.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\System.ValueTuple.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\WpfAnimatedGif.pdb
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\WpfAnimatedGif.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\xunit.abstractions.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\xunit.assert.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\xunit.core.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\bin\Debug\xunit.execution.desktop.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\obj\Debug\STDAPP.csprojAssemblyReference.cache
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\obj\Debug\AccountsPage.g.cs
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\obj\Debug\AlertPage.g.cs
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\obj\Debug\AutoregPage.g.cs
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\obj\Debug\load.g.cs
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\obj\Debug\login.g.cs
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\obj\Debug\ProfileEditorPage.g.cs
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\obj\Debug\ProfilePage.g.cs
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\obj\Debug\SettingsPage.g.cs
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\obj\Debug\SourcePage.g.cs
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\obj\Debug\MainWindow.g.cs
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\obj\Debug\TaskPage.g.cs
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\obj\Debug\App.g.cs
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\obj\Debug\STDAPP_Content.g.cs
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\obj\Debug\STDAPP_MarkupCompile.cache
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\obj\Debug\STDAPP_MarkupCompile.lref
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\obj\Debug\App.baml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\obj\Debug\AccountsPage.baml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\obj\Debug\AlertPage.baml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\obj\Debug\AutoregPage.baml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\obj\Debug\load.baml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\obj\Debug\login.baml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\obj\Debug\ProfileEditorPage.baml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\obj\Debug\ProfilePage.baml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\obj\Debug\SettingsPage.baml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\obj\Debug\SourcePage.baml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\obj\Debug\MainWindow.baml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\obj\Debug\TaskPage.baml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\obj\Debug\STDAPP.g.resources
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\obj\Debug\STDAPP.Properties.Resources.resources
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\obj\Debug\STDAPP.csproj.GenerateResource.cache
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\obj\Debug\STDAPP.csproj.CoreCompileInputs.cache
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\obj\Debug\STDAPP.csproj.CopyComplete
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\obj\Debug\STDAPP.exe
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\obj\Debug\STDAPP.pdb
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\obj\Debug\AlertPageSettings.g.cs
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\obj\Debug\AlertPageSettings.baml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\obj\Debug\AlertPageProfile.g.cs
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\obj\Debug\AlertPageProfile.baml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\obj\Debug\AccountsProxyAlertPage.g.cs
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\obj\Debug\AccountsProxyAlertPage.baml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\obj\Debug\EldoradoRaflPage.g.cs
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\obj\Debug\EldoradoRaflPage.baml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\obj\Debug\LogWindow.g.cs
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV\STDAPP\obj\Debug\LogWindow.baml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\STDAPP.exe.config
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\STDAPP.exe
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\STDAPP.pdb
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\BouncyCastle.Crypto.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\ControlzEx.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Discord.Net.Commands.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Discord.Net.Core.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Discord.Net.Rest.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Discord.Net.Webhook.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Discord.Net.WebSocket.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\DiscordRPC.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Google.Protobuf.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\ICSharpCode.SharpZipLib.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Jering.IocServices.System.Net.Http.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Jering.Javascript.NodeJS.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\K4os.Compression.LZ4.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\K4os.Compression.LZ4.Streams.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\K4os.Hash.xxHash.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Leaf.xNet.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Extensions.Http.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Extensions.Logging.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Extensions.Options.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Extensions.Primitives.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Net.Http.Headers.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Xaml.Behaviors.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\MySql.Data.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\NetCoreEx.BinaryExtensions.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\NetCoreEx.Geometry.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Newtonsoft.Json.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Extensions.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Should.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\PuppeteerSharp.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Renci.SshNet.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\RestSharp.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\System.Buffers.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\System.Collections.Immutable.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\System.ComponentModel.Annotations.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\System.Drawing.Common.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\System.Interactive.Async.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\System.Linq.Async.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\System.Memory.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\System.Numerics.Vectors.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\System.Text.Encodings.Web.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\System.Text.Json.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\System.Threading.Tasks.Extensions.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\System.ValueTuple.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\ToggleSwitch.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Ubiety.Dns.Core.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\WinApi.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\WpfAnimatedGif.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\xNet.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\xunit.abstractions.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\xunit.assert.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\xunit.core.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\xunit.execution.desktop.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Zstandard.Net.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\ControlzEx.pdb
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\ControlzEx.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Discord.Net.Commands.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Discord.Net.Core.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Discord.Net.Rest.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Discord.Net.Webhook.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Discord.Net.WebSocket.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\DiscordRPC.pdb
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\DiscordRPC.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Google.Protobuf.pdb
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Google.Protobuf.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\ICSharpCode.SharpZipLib.pdb
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\ICSharpCode.SharpZipLib.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Jering.Javascript.NodeJS.pdb
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Jering.Javascript.NodeJS.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\K4os.Compression.LZ4.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\K4os.Compression.LZ4.Streams.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\K4os.Hash.xxHash.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Leaf.xNet.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Extensions.Http.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Extensions.Logging.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Extensions.Options.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Extensions.Primitives.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Net.Http.Headers.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Xaml.Behaviors.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\MySql.Data.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Newtonsoft.Json.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\PuppeteerSharp.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Extensions.pdb
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Extensions.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Should.pdb
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Should.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\Renci.SshNet.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\RestSharp.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\System.Buffers.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\System.Collections.Immutable.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\System.Interactive.Async.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\System.Linq.Async.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\System.Memory.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\System.Numerics.Vectors.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\System.Text.Encodings.Web.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\System.Text.Json.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\System.Threading.Tasks.Extensions.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\System.ValueTuple.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\WpfAnimatedGif.pdb
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\WpfAnimatedGif.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\xunit.abstractions.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\xunit.assert.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\xunit.core.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\xunit.execution.desktop.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\obj\Debug\STDAPP.csprojAssemblyReference.cache
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\obj\Debug\AccountsPage.g.cs
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\obj\Debug\AccountsProxyAlertPage.g.cs
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\obj\Debug\AlertPage.g.cs
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\obj\Debug\AlertPageProfile.g.cs
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\obj\Debug\AlertPageSettings.g.cs
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\obj\Debug\AutoregPage.g.cs
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\obj\Debug\EldoradoRaflPage.g.cs
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\obj\Debug\load.g.cs
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\obj\Debug\login.g.cs
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\obj\Debug\LogWindow.g.cs
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\obj\Debug\ProfileEditorPage.g.cs
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\obj\Debug\ProfilePage.g.cs
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\obj\Debug\SettingsPage.g.cs
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\obj\Debug\SourcePage.g.cs
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\obj\Debug\MainWindow.g.cs
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\obj\Debug\TaskPage.g.cs
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\obj\Debug\App.g.cs
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\obj\Debug\STDAPP_Content.g.cs
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\obj\Debug\STDAPP_MarkupCompile.cache
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\obj\Debug\STDAPP_MarkupCompile.lref
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\obj\Debug\App.baml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\obj\Debug\AccountsPage.baml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\obj\Debug\AccountsProxyAlertPage.baml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\obj\Debug\AlertPage.baml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\obj\Debug\AlertPageProfile.baml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\obj\Debug\AlertPageSettings.baml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\obj\Debug\AutoregPage.baml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\obj\Debug\EldoradoRaflPage.baml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\obj\Debug\load.baml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\obj\Debug\login.baml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\obj\Debug\LogWindow.baml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\obj\Debug\ProfileEditorPage.baml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\obj\Debug\ProfilePage.baml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\obj\Debug\SettingsPage.baml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\obj\Debug\SourcePage.baml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\obj\Debug\MainWindow.baml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\obj\Debug\TaskPage.baml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\obj\Debug\STDAPP.g.resources
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\obj\Debug\STDAPP.Properties.Resources.resources
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\obj\Debug\STDAPP.csproj.GenerateResource.cache
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\obj\Debug\STDAPP.csproj.CoreCompileInputs.cache
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\obj\Debug\STDAPP.csproj.CopyComplete
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\obj\Debug\STDAPP.exe
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\obj\Debug\STDAPP.pdb
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\obj\Debug\Custom Controls\MultiselectCombo.baml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\obj\Debug\Custom Controls\MultiselectCombo.g.cs
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\AngleSharp.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\System.Text.Encoding.CodePages.dll
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\AngleSharp.xml
+H:\anime\STD\STDAPP versions New\DNSLamodaLastV\23_06DNS1release\00_07LastV - new Creation\STDAPP\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\STDAPP.exe.config
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\STDAPP.exe
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\STDAPP.pdb
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\AngleSharp.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\BouncyCastle.Crypto.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\ControlzEx.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Discord.Net.Commands.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Discord.Net.Core.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Discord.Net.Rest.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Discord.Net.Webhook.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Discord.Net.WebSocket.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\DiscordRPC.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Google.Protobuf.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Jering.IocServices.System.Net.Http.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Jering.Javascript.NodeJS.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\K4os.Compression.LZ4.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\K4os.Hash.xxHash.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Leaf.xNet.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Extensions.Http.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Extensions.Options.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Net.Http.Headers.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Xaml.Behaviors.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\MySql.Data.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\NetCoreEx.BinaryExtensions.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\NetCoreEx.Geometry.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Newtonsoft.Json.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Extensions.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Should.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\PuppeteerSharp.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Renci.SshNet.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\RestSharp.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\System.Buffers.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\System.Collections.Immutable.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\System.ComponentModel.Annotations.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\System.Drawing.Common.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\System.Interactive.Async.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\System.Linq.Async.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\System.Memory.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\System.Numerics.Vectors.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\System.Text.Encodings.Web.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\System.Text.Json.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\System.ValueTuple.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\ToggleSwitch.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Ubiety.Dns.Core.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\WinApi.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\WpfAnimatedGif.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\xunit.abstractions.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\xunit.assert.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\xunit.core.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\xunit.execution.desktop.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Zstandard.Net.dll
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\AngleSharp.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\ControlzEx.pdb
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\ControlzEx.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Discord.Net.Commands.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Discord.Net.Core.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Discord.Net.Rest.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Discord.Net.Webhook.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Discord.Net.WebSocket.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\DiscordRPC.pdb
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\DiscordRPC.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Google.Protobuf.pdb
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Google.Protobuf.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Jering.Javascript.NodeJS.pdb
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Jering.Javascript.NodeJS.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\K4os.Compression.LZ4.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\K4os.Hash.xxHash.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Leaf.xNet.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Extensions.Http.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Extensions.Options.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Net.Http.Headers.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Microsoft.Xaml.Behaviors.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\MySql.Data.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Newtonsoft.Json.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\PuppeteerSharp.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Extensions.pdb
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Extensions.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Should.pdb
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\PuppeteerSharp.Contrib.Should.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\Renci.SshNet.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\RestSharp.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\System.Buffers.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\System.Collections.Immutable.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\System.Interactive.Async.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\System.Linq.Async.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\System.Memory.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\System.Numerics.Vectors.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\System.Text.Encodings.Web.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\System.Text.Json.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\System.ValueTuple.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\WpfAnimatedGif.pdb
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\WpfAnimatedGif.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\xunit.abstractions.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\xunit.assert.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\xunit.core.xml
+E:\00_07LastV - new Creation\STDAPP\bin\Debug\xunit.execution.desktop.xml
+E:\00_07LastV - new Creation\STDAPP\obj\Debug\STDAPP.csproj.AssemblyReference.cache
+E:\00_07LastV - new Creation\STDAPP\obj\Debug\Custom Controls\MultiselectCombo.baml
+E:\00_07LastV - new Creation\STDAPP\obj\Debug\AccountsPage.g.cs
+E:\00_07LastV - new Creation\STDAPP\obj\Debug\AccountsProxyAlertPage.g.cs
+E:\00_07LastV - new Creation\STDAPP\obj\Debug\AlertPage.g.cs
+E:\00_07LastV - new Creation\STDAPP\obj\Debug\AlertPageProfile.g.cs
+E:\00_07LastV - new Creation\STDAPP\obj\Debug\AlertPageSettings.g.cs
+E:\00_07LastV - new Creation\STDAPP\obj\Debug\AutoregPage.g.cs
+E:\00_07LastV - new Creation\STDAPP\obj\Debug\EldoradoRaflPage.g.cs
+E:\00_07LastV - new Creation\STDAPP\obj\Debug\load.g.cs
+E:\00_07LastV - new Creation\STDAPP\obj\Debug\login.g.cs
+E:\00_07LastV - new Creation\STDAPP\obj\Debug\LogWindow.g.cs
+E:\00_07LastV - new Creation\STDAPP\obj\Debug\Custom Controls\MultiselectCombo.g.cs
+E:\00_07LastV - new Creation\STDAPP\obj\Debug\ProfileEditorPage.g.cs
+E:\00_07LastV - new Creation\STDAPP\obj\Debug\ProfilePage.g.cs
+E:\00_07LastV - new Creation\STDAPP\obj\Debug\SettingsPage.g.cs
+E:\00_07LastV - new Creation\STDAPP\obj\Debug\SourcePage.g.cs
+E:\00_07LastV - new Creation\STDAPP\obj\Debug\MainWindow.g.cs
+E:\00_07LastV - new Creation\STDAPP\obj\Debug\TaskPage.g.cs
+E:\00_07LastV - new Creation\STDAPP\obj\Debug\App.g.cs
+E:\00_07LastV - new Creation\STDAPP\obj\Debug\STDAPP_Content.g.cs
+E:\00_07LastV - new Creation\STDAPP\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\00_07LastV - new Creation\STDAPP\obj\Debug\STDAPP_MarkupCompile.cache
+E:\00_07LastV - new Creation\STDAPP\obj\Debug\STDAPP_MarkupCompile.lref
+E:\00_07LastV - new Creation\STDAPP\obj\Debug\App.baml
+E:\00_07LastV - new Creation\STDAPP\obj\Debug\AccountsPage.baml
+E:\00_07LastV - new Creation\STDAPP\obj\Debug\AccountsProxyAlertPage.baml
+E:\00_07LastV - new Creation\STDAPP\obj\Debug\AlertPage.baml
+E:\00_07LastV - new Creation\STDAPP\obj\Debug\AlertPageProfile.baml
+E:\00_07LastV - new Creation\STDAPP\obj\Debug\AlertPageSettings.baml
+E:\00_07LastV - new Creation\STDAPP\obj\Debug\AutoregPage.baml
+E:\00_07LastV - new Creation\STDAPP\obj\Debug\EldoradoRaflPage.baml
+E:\00_07LastV - new Creation\STDAPP\obj\Debug\load.baml
+E:\00_07LastV - new Creation\STDAPP\obj\Debug\login.baml
+E:\00_07LastV - new Creation\STDAPP\obj\Debug\LogWindow.baml
+E:\00_07LastV - new Creation\STDAPP\obj\Debug\ProfileEditorPage.baml
+E:\00_07LastV - new Creation\STDAPP\obj\Debug\ProfilePage.baml
+E:\00_07LastV - new Creation\STDAPP\obj\Debug\SettingsPage.baml
+E:\00_07LastV - new Creation\STDAPP\obj\Debug\SourcePage.baml
+E:\00_07LastV - new Creation\STDAPP\obj\Debug\MainWindow.baml
+E:\00_07LastV - new Creation\STDAPP\obj\Debug\TaskPage.baml
+E:\00_07LastV - new Creation\STDAPP\obj\Debug\STDAPP.g.resources
+E:\00_07LastV - new Creation\STDAPP\obj\Debug\STDAPP.Properties.Resources.resources
+E:\00_07LastV - new Creation\STDAPP\obj\Debug\STDAPP.csproj.GenerateResource.cache
+E:\00_07LastV - new Creation\STDAPP\obj\Debug\STDAPP.csproj.CoreCompileInputs.cache
+E:\00_07LastV - new Creation\STDAPP\obj\Debug\STDAPP.csproj.CopyComplete
+E:\00_07LastV - new Creation\STDAPP\obj\Debug\STDAPP.exe
+E:\00_07LastV - new Creation\STDAPP\obj\Debug\STDAPP.pdb

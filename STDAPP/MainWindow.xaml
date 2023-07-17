@@ -1,0 +1,128 @@
+﻿<Window x:Class="STDAPP.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:STDAPP"
+        mc:Ignorable="d"
+        Title="Stardom" Height="800" MinHeight="700" MinWidth="1200" Width="1300" WindowStartupLocation="CenterScreen" Background="Transparent" AllowsTransparency="True" WindowStyle="None" 
+        x:Name="WindowMain" Icon="Pictures/favicon.png" >
+ 
+
+
+    <Grid VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Background="Transparent" x:Name="MainGrid" >
+
+        <Border x:Name="WindowBorder" BorderThickness="2" Background="Black" BorderBrush="White" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Margin="1,1,1,2" CornerRadius="10" MouseLeftButtonDown="Grid_MouseLeftButtonDown" >
+            <AdornerDecorator>
+                <Border HorizontalAlignment="Stretch" VerticalAlignment="Top" Height="46" CornerRadius ="5" >
+                    <Grid x:Name="Shapka" HorizontalAlignment="Stretch" VerticalAlignment="Top">
+                        <Button Background="Black" Content="Source" Foreground="White" Click="Menu_Button_Source_Click" Width="100" Height="22" HorizontalAlignment="Left" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"  Margin="100,0,0,0" BorderThickness="0" FontSize="16" Style="{StaticResource ButtonShapkaStyle}" MouseEnter="Source_Mouse_Enter" MouseLeave="Source_Mouse_Leave" FontWeight="Bold" />
+                        <Rectangle x:Name="SourceLine" Width="100" Height="2" Margin="97,38,1097,6" Fill="Pink" Visibility="Hidden" HorizontalAlignment="Left"></Rectangle>
+
+                        <Button Background="Black" Content="Accounts and Proxy" Foreground="White" Click="MenuItem_Accounts_Click" Width="155" Height="22" HorizontalAlignment="Left"  HorizontalContentAlignment="Center" VerticalContentAlignment="Center"  Margin="220,0,0,0" BorderThickness="0" FontSize="16" Style="{StaticResource ButtonShapkaStyle}" MouseEnter="Account_Mouse_Enter" MouseLeave="Account_Mouse_Leave" FontWeight="Bold"  />
+                        <Rectangle x:Name="AccountsLine" Width="150" Height="2" Margin="220,38,0,6" Fill="#FF6594C8" Visibility="Hidden" HorizontalAlignment="Left"></Rectangle>
+
+                        <Button Background="Black" Content="Profile" Foreground="White" Width="100"  Click="MenuItem_Profile_Click" Height="22" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" Margin="400,12,794,12" BorderThickness="0" FontSize="16" Style="{StaticResource ButtonShapkaStyle}" MouseEnter="Profile_Mouse_Enter" MouseLeave="Profile_Mouse_Leave" FontWeight="Bold"  />
+                        <Rectangle x:Name="ProfileLine" Width="100" Height="2" Margin="400,38,794,6" Fill="#FFE1C1EA" Visibility="Hidden" HorizontalAlignment="Left"></Rectangle>
+                        <Rectangle x:Name="ProfileEditorLine" Width="100" Height="2" Margin="535,38,0,6" Fill="White" Visibility="Hidden" HorizontalAlignment="Left"></Rectangle>
+
+                        <Grid VerticalAlignment="Top" HorizontalAlignment="Left" Width="55" Height="47" Margin="20,0,0,-1" >
+                            <Grid.Background>
+                                <ImageBrush/>
+                            </Grid.Background>
+                        
+                            <Button Name="WebLogo" Width="35" Height="35" BorderBrush="White" Focusable="False"  BorderThickness="1" Click="WebLogo_Click">
+                                <Button.Background>
+                                    <ImageBrush ImageSource="Pictures/kid-alphabet-latin-s-letter-child-512.png"/>
+                                </Button.Background>
+                                <Button.Style>
+                                    <StaticResource ResourceKey="DefaultButtonStyle"/>
+                                </Button.Style>
+                                <Button.Resources>
+                                    <Style TargetType="{x:Type Border}">
+                                        <Setter Property="CornerRadius" Value="8"/>
+                                    </Style>
+                                </Button.Resources>
+                            </Button>
+                            
+                        </Grid>
+                        <Grid Name="CloseGrid" Background="#FF241F25" Margin="0,0,10,0" Width="25" Height="25" HorizontalAlignment="Right" VerticalAlignment="Center" Visibility="Hidden" >
+                        </Grid>
+                        <Grid Name="MinimizeGrid" Background="#FF241F25" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,0,90,0" Width="25" Height="25" Visibility="Hidden" >
+                        </Grid>
+                        <Grid Name="MaximizeGrid" Background="#FF241F25" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,0,50,0" Width="25" Height="25" Visibility="Hidden" >
+                        </Grid>
+
+                        <Button Name="FullScreen" Width="25" Height="25" BorderBrush="White" Focusable="False" Style="{StaticResource DefaultButtonStyle}" BorderThickness="0" Click="FullSize_Click" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,0,50,0" MouseEnter="FullScreen_MouseEnter" MouseLeave="FullScreen_MouseLeave" >
+                            <Button.Background>
+                                <ImageBrush ImageSource="Pictures/max.png"/>
+                            </Button.Background>
+                            <Button.Resources>
+                                <Style TargetType="{x:Type Border}">
+                                    <Setter Property="CornerRadius" Value="5"/>
+                                </Style>
+                            </Button.Resources>
+
+                        </Button>
+
+                        <Button Name="Settings" Width="35" Height="35" BorderBrush="Black" Focusable="False" Style="{StaticResource ButtonStyleSettings}" BorderThickness="2" VerticalAlignment="Center" HorizontalAlignment="Right" Margin="0,0,150,0" Click="Button_Settings_Click">
+                            <Button.Background>
+                                <ImageBrush ImageSource="Pictures/icon.png"/>
+                            </Button.Background>
+
+
+                        </Button>
+                        <Button Name="HideWindow" Width="25" Height="25" BorderBrush="White" Focusable="False" Style="{StaticResource DefaultButtonStyle}" BorderThickness="0" Click="Minimize_Click" HorizontalAlignment="Right" VerticalAlignment="Center"  Margin="0,0,90,0" MouseEnter="HideWindow_MouseEnter" MouseLeave="HideWindow_MouseLeave" >
+                            <Button.Background>
+                                <ImageBrush ImageSource="Pictures/min.png" Stretch="Uniform"/>
+                            </Button.Background>
+                            <Button.Resources>
+                                <Style TargetType="{x:Type Border}">
+                                    <Setter Property="CornerRadius" Value="5"/>
+                                </Style>
+                            </Button.Resources>
+
+                        </Button>
+                        <Button x:Name="Close" Width="25" Height="25" BorderBrush="White" Focusable="False"  BorderThickness="0" Click="Close_click" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,0,10,0" MouseEnter="Close_MouseEnter" MouseLeave="Close_MouseLeave" >
+                            <Button.Resources>
+                                <Style TargetType="{x:Type Border}">
+                                    <Setter Property="CornerRadius" Value="5"/>
+                                </Style>
+                            </Button.Resources>
+                            <Button.Style>
+                                <StaticResource ResourceKey="DefaultButtonStyle"/>
+                            </Button.Style>
+                            <Button.Background>
+                                <ImageBrush ImageSource="Pictures/close_white_2048x2048.png"/>
+                            </Button.Background>
+                        </Button>
+
+                    </Grid>
+                </Border>
+
+            </AdornerDecorator>
+
+
+        </Border>
+        <Border x:Name="FrameBorder" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Width="Auto" Height="Auto" Margin="1,50,1,2" BorderBrush="White" BorderThickness="2" CornerRadius="3">
+            <Grid>
+
+                <Frame x:Name="FrameOfMainContent" NavigationUIVisibility="Hidden">
+
+                </Frame>
+            </Grid>
+        </Border>
+        <Grid x:Name="StartPageLogo" VerticalAlignment="Center" HorizontalAlignment="Center" Width="300" Height="300">
+            <Grid.Background>
+                <ImageBrush ImageSource="Pictures/kid-alphabet-latin-s-letter-child-512.png"/>
+            </Grid.Background>
+        </Grid>
+
+
+    </Grid>
+
+
+
+
+</Window>

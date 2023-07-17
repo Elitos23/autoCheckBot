@@ -1,0 +1,30 @@
+﻿<Page x:Class="STDAPP.AlertPageSettings"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:STDAPP"
+      mc:Ignorable="d" 
+      Title="AlertPageSettings">
+
+
+    <Grid VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Background="Transparent"  Height="70">
+        <Border Margin="0,10,10,10"  CornerRadius="3"  BorderBrush="White"  BorderThickness="2" >
+            <Grid  >
+                <Grid.Background>
+                    <SolidColorBrush Color="Black" Opacity="0.5"/>
+                </Grid.Background>
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="100*"/>
+                    <ColumnDefinition Width="1*"/>
+                </Grid.ColumnDefinitions>
+
+                <Label x:Name="LabelAlertMessage" FontSize="15" Grid.Column="0" Foreground="White" VerticalContentAlignment="Center" HorizontalContentAlignment ="Center" FontFamily="Segoe UI" FontWeight="Bold">Message</Label>
+
+            </Grid>
+
+        </Border>
+    </Grid>
+
+</Page>

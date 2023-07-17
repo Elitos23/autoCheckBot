@@ -1,0 +1,109 @@
+﻿<Page x:Class="STDAPP.AccountsPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:STDAPP"
+      mc:Ignorable="d" 
+     
+     >
+
+    <Grid x:Name="AccountGrid" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Background="Black">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="400*"/>
+            <ColumnDefinition Width= "1200*"/>
+        </Grid.ColumnDefinitions>
+        <Grid x:Name="pic" VerticalAlignment="Stretch" HorizontalAlignment="Left" Width="1500" Grid.Column="0" Visibility="Visible" >
+            <Grid.Background>
+                <ImageBrush ImageSource="Pictures/7b1a4c54a661563e62d5f1cf0c635e87d2fb40d4.jpg"/>
+            </Grid.Background>
+        </Grid>
+
+        <Grid Grid.Column="1" Background="Black">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="60*"/>
+                <RowDefinition Height="100*"/>
+                <RowDefinition Height="1000*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="800*"/>
+                <ColumnDefinition Width="800*"/>
+            </Grid.ColumnDefinitions>
+
+            <Label Grid.Row ="0" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center" Height="90" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"  Foreground="White" FontSize="30" FontFamily="Segoe UI Black" Background="Black" Content="Accounts" ></Label>
+            <Label Grid.Row ="0" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center" Height="90" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"  Foreground="White" FontSize="30" FontFamily="Segoe UI Black" Background="Black" Content="Proxy" ></Label>
+            <Border Grid.Row="2" Grid.Column="0"  BorderThickness="2" BorderBrush="#FF6594C8" Margin="0,0,10,40" CornerRadius="5">
+                <TextBox x:Name="ProxyList" Background="Black" FontFamily="Segoe UI Black" TextWrapping="Wrap" VerticalScrollBarVisibility="Hidden" AcceptsReturn="True" FontSize="18" Foreground="White" BorderThickness="0" Padding="5,0,0,0" >
+                    <TextBox.Resources>
+                        <Style TargetType="{x:Type Border}">
+                            <Setter Property="CornerRadius" Value="5"/>
+                        </Style>
+                    </TextBox.Resources>
+                </TextBox>
+            </Border>
+
+            <TextBox x:Name="ProxyName" Grid.Column ="0" Grid.Row="1" HorizontalAlignment="Left" Width="140" Height="30" BorderThickness="2" BorderBrush="#FF6594C8" Foreground="White" FontSize="18" Background="Black" Padding="5,0,0,0" FontFamily="Segoe UI Black">
+                <TextBox.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="5"/>
+                    </Style>
+                </TextBox.Resources>
+            </TextBox>
+            <Button x:Name="ButtonSavePr" Grid.Row="1" Grid.Column ="0" HorizontalAlignment="Left" Margin="150,0,0,0" Height="30" Width="70" BorderThickness="2" BorderBrush="#FF6594C8" Foreground="White" FontSize="16" Background="Black" Content="SAVE" Style="{StaticResource AccountsButtonStyle}" Click="ButtonSaveProxy_Click" FontWeight="Bold">
+                <Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="5"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+            <ComboBox x:Name="CBLoadProxy" Grid.Row="1" Grid.Column ="0" Margin="0,0,100,0" HorizontalAlignment="Right" Width="140" Height="30" BorderThickness="2" BorderBrush="#FF6594C8" Foreground="White" FontSize="15" FontFamily="Segoe UI Black"  Style="{StaticResource ComboBoxAccountStyle}" DropDownOpened="CBLoadProxy_DropDownOpened" SelectionChanged="CBLoadProxy_SelectionChanged" >
+
+            </ComboBox>
+
+            <Button Grid.Row="1" Grid.Column ="0" HorizontalAlignment="Right" Margin="0,0,20,0" Height="30" Width="70" BorderThickness="2" BorderBrush="#FF6594C8" Foreground="White" FontSize="16" Background="Black" Content="DELETE" Style="{StaticResource AccountsButtonStyle}" FontWeight="Bold" Click="Button_Click_1">
+                <Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="5"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+
+            <TextBox x:Name="AccountName" Grid.Column ="1" Grid.Row="1" HorizontalAlignment="Left" Width="140" Height="30" BorderThickness="2" BorderBrush="#FF6594C8" Foreground="White" FontSize="18" Background="Black" Margin="10,0,0,0" Padding="5,0,0,0" FontFamily="Segoe UI Black">
+                <TextBox.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="5"/>
+                    </Style>
+                </TextBox.Resources>
+            </TextBox>
+            <Button x:Name="ButtonSave" Grid.Row="1" Grid.Column ="1" HorizontalAlignment="Left" Margin="160,0,0,0" Height="30" Width="70" BorderThickness="2" BorderBrush="#FF6594C8" Foreground="White" FontSize="16" Background="Black" Content="SAVE" Style="{StaticResource AccountsButtonStyle}" Click="ButtonSave_Click" FontWeight="Bold">
+                <Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="5"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+            <ComboBox x:Name="CBLoadAccount" Grid.Row="1" Grid.Column ="1" Margin="10,0,100,0" HorizontalAlignment="Right" Width="140" Height="30" BorderThickness="2" BorderBrush="Aqua" Foreground="White" FontSize="15" FontFamily="Segoe UI Black"  Style="{StaticResource ComboBoxAccountStyle}" DropDownOpened="CBLoadAccount_DropDownOpened" SelectionChanged="CBLoadAccount_SelectionChanged" >
+
+            </ComboBox>
+            <Border Grid.Row="2" Grid.Column="1"  BorderThickness="2" BorderBrush="#FF6594C8" Margin="10,0,10,40" CornerRadius="5">
+                <TextBox x:Name="AccountsList" Background="Black" FontFamily="Segoe UI Black" TextWrapping="Wrap" VerticalScrollBarVisibility="Hidden" AcceptsReturn="True" FontSize="18" Foreground="White" BorderThickness="0" Padding="5,0,0,0" >
+                    <TextBox.Resources>
+                        <Style TargetType="{x:Type Border}">
+                            <Setter Property="CornerRadius" Value="5"/>
+                        </Style>
+                    </TextBox.Resources>
+                </TextBox>
+            </Border>
+
+            <Button Grid.Row="1" Grid.Column ="1" HorizontalAlignment="Right" Margin="0,0,20,0" Height="30" Width="70" BorderThickness="2" BorderBrush="#FF6594C8" Foreground="White" FontSize="16" Background="Black" Content="DELETE" Style="{StaticResource AccountsButtonStyle}" FontWeight="Bold" Click="Button_Click">
+                <Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="5"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+        </Grid>
+        <StackPanel x:Name="AlertStack" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="320" Margin="40,0,0,65"  Grid.Column="0" />
+
+    </Grid>
+</Page>

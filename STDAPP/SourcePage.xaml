@@ -1,0 +1,318 @@
+﻿<Page x:Class="STDAPP.SourcePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:STDAPP"
+      mc:Ignorable="d"  
+      >
+
+    <Grid x:Name="SourceGreed" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="Black">
+        <Grid Name="pic" HorizontalAlignment ="Left" Width="1500" Visibility="Visible">
+            <Grid.Background>
+                <ImageBrush ImageSource="Pictures/1585294528_16-p-kartinki-v-stile-anime-na-chernom-fone-44 (1).jpg"/>
+            </Grid.Background>
+        </Grid>
+        <Border VerticalAlignment="Top" HorizontalAlignment="Stretch" Height="55" Background ="Black" Opacity="0.8">
+            <Grid VerticalAlignment="Top" HorizontalAlignment="Stretch" Height="55"  >
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="95*"/>
+                    <ColumnDefinition Width="79*"/>
+                    <ColumnDefinition Width="92*"/>
+                    <ColumnDefinition Width="80*"/>
+                    <ColumnDefinition Width="85*"/>
+                    <ColumnDefinition Width="70*"/>
+                    <ColumnDefinition Width="97*"/>
+                </Grid.ColumnDefinitions>
+                <Label HorizontalAlignment="Left" VerticalAlignment="Stretch" Width="150"  Content="Account" Foreground="White"  FontSize ="25" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontFamily="Segoe UI Black" Grid.Column="0" Margin="30,0,0,0" ></Label>
+                <Label HorizontalAlignment="Left" VerticalAlignment="Stretch" Width="80" Content="Size" Foreground="White"  FontSize ="25" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontFamily="Segoe UI Black" Grid.Column="1" Margin="25,0,0,0"></Label>
+                <Label HorizontalAlignment="Left" VerticalAlignment="Stretch" Width="150"  Content="Profile" Foreground="White"  FontSize ="25" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontFamily="Segoe UI Black" Grid.Column="2"></Label>
+                <Label HorizontalAlignment="Left" VerticalAlignment="Stretch" Width="100"  Content ="Time" Foreground="White"  FontSize ="25"  VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontFamily="Segoe UI Black" Grid.Column="3"></Label>
+                <Label HorizontalAlignment="Left" VerticalAlignment="Stretch" Width="150"   Content="Proxy" Foreground="White"  FontSize ="25" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontFamily="Segoe UI Black" Grid.Column="4"></Label>
+                <Label HorizontalAlignment="Left" VerticalAlignment="Stretch" Width="150"   Content="Status" Foreground="White"  FontSize ="25"  FontFamily="Segoe UI Black" Grid.Column="5" VerticalContentAlignment="Center"  HorizontalContentAlignment="Center"></Label>
+                <Label Name="TotalTasks" Grid.Column ="6" HorizontalAlignment="Left" VerticalAlignment="Stretch"    Content="Total Tasks - 0" Foreground="White"  FontSize ="25"  FontFamily="Segoe UI Black" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"></Label>
+            </Grid>
+
+        </Border>
+        <Grid VerticalAlignment="Stretch"  Height="750" Margin="0,57,0,90">
+            <ScrollViewer Cursor="Arrow" VerticalScrollBarVisibility="Visible" Margin="0,0,0,40" >
+                <StackPanel x:Name="TaskStack" />
+            </ScrollViewer>
+
+        </Grid>
+        <Grid HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="0,40,0,0">
+            <Border VerticalAlignment="Bottom" HorizontalAlignment="Stretch" Height="85" Background = "Black" Opacity="1">
+                <Grid VerticalAlignment="Bottom" HorizontalAlignment="Stretch" Height="70" >
+                    <Button x:Name="CreateTaskButton" Width="200" Height="45" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,0,20,0" BorderBrush="Pink" BorderThickness="3"  Background="Black"  Content="Create Tasks" Foreground="White"  FontSize ="25" FontFamily="Segoe UI Black" Click="CreateTaskButton_Click" Style="{StaticResource DefaultButtonStyle}">
+                        <Button.Resources>
+                            <Style TargetType="Border">
+                                <Setter Property="CornerRadius" Value="10"/>
+                            </Style>
+                        </Button.Resources>
+                    </Button>
+                    <Button x:Name="StartAllButton" Width="200" Height="45" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="270,0,0,0" BorderBrush="#FFC2FFBB" BorderThickness="3"  Background="Black"  Content="Start All Tasks" Foreground="White"  FontSize ="25" FontFamily="Segoe UI Black" Click="StartAllTasksClick" Style="{StaticResource DefaultButtonStyle}">
+                        <Button.Resources>
+                            <Style TargetType="Border">
+                                <Setter Property="CornerRadius" Value="10"/>
+                            </Style>
+                        </Button.Resources>
+                    </Button>
+                    <Button x:Name="StartCaptcha" Width="180" Height="45" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="780,0,0,0" BorderBrush="#FFC2FFBB" BorderThickness="3"  Background="Black"  Content="Start Captcha" Foreground="White"  FontSize ="25" FontFamily="Segoe UI Black" Click="StartCapthaClick" Style="{StaticResource DefaultButtonStyle}">
+                        <Button.Resources>
+                            <Style TargetType="Border">
+                                <Setter Property="CornerRadius" Value="10"/>
+                            </Style>
+                        </Button.Resources>
+                    </Button>
+                    <Button x:Name="SaveTask" Width="100" Height="45" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="10,0,0,0" BorderBrush="#FFC2FFBB" BorderThickness="3"  Background="Black"  Content="Export" Foreground="White"  FontSize ="25" FontFamily="Segoe UI Black"  Style="{StaticResource DefaultButtonStyle}" Click="SaveTask_Click">
+                        <Button.Resources>
+                            <Style TargetType="Border">
+                                <Setter Property="CornerRadius" Value="10"/>
+                            </Style>
+                        </Button.Resources>
+                    </Button>
+
+                    <Button x:Name="Import" Width="100" Height="45" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="130,0,0,0" BorderBrush="#FFC2FFBB" BorderThickness="3"  Background="Black"  Content="Import" Foreground="White"  FontSize ="25" FontFamily="Segoe UI Black"  Style="{StaticResource DefaultButtonStyle}" Click="Import_Click">
+                        <Button.Resources>
+                            <Style TargetType="Border">
+                                <Setter Property="CornerRadius" Value="10"/>
+                            </Style>
+                        </Button.Resources>
+                    </Button>
+
+
+                    <Button x:Name="StopCaptcha" Width="180" Height="45" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="1000,0,0,0" BorderBrush="#FFDD6A7E" BorderThickness="3"  Background="Black"  Content="Stop Captcha" Foreground="White"  FontSize ="25" FontFamily="Segoe UI Black" Click="StopCapthaClick" Style="{StaticResource DefaultButtonStyle}">
+                        <Button.Resources>
+                            <Style TargetType="Border">
+                                <Setter Property="CornerRadius" Value="10"/>
+                            </Style>
+                        </Button.Resources>
+                    </Button>
+
+                    <Button x:Name="StopAllButton" Width="200" Height="45" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="500,0,0,0" BorderBrush="#FFDD6A7E" BorderThickness="3"  Background="Black"  Content="Stop All Tasks" Foreground="White"  FontSize ="25" FontFamily="Segoe UI Black" Click="StopAllTasksClick" Style="{StaticResource DefaultButtonStyle}">
+                        <Button.Resources>
+                            <Style TargetType="Border">
+                                <Setter Property="CornerRadius" Value="10"/>
+                            </Style>
+                        </Button.Resources>
+                    </Button>
+                </Grid>
+            </Border>
+        </Grid>
+        <Border x:Name="TaskBorder" VerticalAlignment="Center" HorizontalAlignment="Center" Background="Black" Opacity="0.9" BorderThickness="3" BorderBrush="Pink" Width="1000" Height="570" CornerRadius="8" >
+            <Grid>
+                <Button x:Name="MinimizeButtonSource" VerticalAlignment="Top" HorizontalAlignment="Right" Width="20" Height="20" Margin="0,10,10,0" Style="{StaticResource DefaultButtonStyle}" BorderThickness="0" Click="MinimizeButtonSource_Click">
+                    <Button.Background>
+                        <ImageBrush ImageSource="Pictures/min.png" Stretch="Uniform"/>
+                    </Button.Background>
+                </Button>
+                <Border VerticalAlignment="Top" HorizontalAlignment="Left" Height="39" Width="370" BorderBrush="Pink" BorderThickness="2" CornerRadius="4" Margin="15,15,0,0">
+                    <Grid >
+                        <Button x:Name="SourceOpenButton" Height="30" Width="80" HorizontalAlignment="Left" Background="Black" Foreground="White" Content="Source" BorderThickness="0" FontSize="14" Style="{StaticResource ButtonShapkaStyle}" FontWeight="Bold" MouseEnter="SourceOpenButton_MouseEnter" MouseLeave="SourceOpenButton_MouseLeave">
+
+                        </Button>
+
+                        <Button x:Name="ProfileEditorOpenButton" Height="30" Width="95" HorizontalAlignment="Left" Margin="90,0,0,0" Background="Black" Foreground="White" Content="Profile Editor" BorderThickness="0" FontSize="14" FontWeight="Bold" Style="{StaticResource ButtonShapkaStyle}" Click="ProfileEditorOpenButton_Click" MouseEnter="ProfileEditorOpenButton_MouseEnter" MouseLeave="ProfileEditorOpenButton_MouseLeave"  >
+
+                        </Button>
+
+                        <Button x:Name="AutoregOpenButton" Height="30" Width="80" HorizontalAlignment="Left" Margin="190,0,0,0" Background="Black" Foreground="White" Content="Autoreg" BorderThickness="0" FontSize="14" Style="{StaticResource ButtonShapkaStyle}" FontWeight="Bold" Click="AutoregOpenButton_Click" MouseEnter="AutoregOpenButton_MouseEnter" MouseLeave="AutoregOpenButton_MouseLeave" >
+
+                        </Button>
+
+                        <Button x:Name="EldoradoOpenButton" Style="{StaticResource ButtonShapkaStyle}" Height="30" Width="80" HorizontalAlignment="Left" Margin="280,3,0,3" Background="Black" Foreground="White" Content="Eldorado" BorderThickness="0" FontSize="14" FontWeight="Bold" MouseEnter="EldoradoOpenButton_MouseEnter" MouseLeave="EldoradoOpenButton_MouseLeave" Grid.ColumnSpan="2" Click="EldoradoOpenButton_Click">
+
+                        </Button>
+                    </Grid>
+                </Border>
+                <Label x:Name="LabelLink" Content="Product Link" Background="Black" Foreground="White" FontSize="27" FontFamily="Segoe UI Black" HorizontalAlignment="Center" VerticalAlignment="Top" Height="45" Margin="398,31,398,0" />
+                <Label x:Name="LabelShopId" Content="Shop Id" Background="Black" Foreground="White" FontSize="27" FontFamily="Segoe UI Black" HorizontalAlignment="Center" VerticalAlignment="Top" Height="45" Margin="398,131,398,0" Visibility="Hidden"/>
+                <Border x:Name="BorderLink" VerticalAlignment="Top" HorizontalAlignment="Center" Height="30" Width="900" Margin="47,100,47,0" BorderThickness="2" BorderBrush="Pink" CornerRadius="5">
+                    <TextBox x:Name="link" Foreground="White" Background="Black" FontSize="15" FontFamily="Segoe UI Black" Style="{StaticResource TextBoxStyle}" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Padding="5,2,0,0"/>
+                </Border>
+                <Border x:Name="BorderShopId" VerticalAlignment="Top" HorizontalAlignment="Center" Height="30" Width="900" Margin="47,190,47,0" BorderThickness="2" BorderBrush="Pink" CornerRadius="5" Visibility="Hidden">
+                    <TextBox x:Name="ShopId" Foreground="White" Background="Black" FontSize="15" FontFamily="Segoe UI Black" Style="{StaticResource TextBoxStyle}" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Padding="5,2,0,0"/>
+                </Border>
+
+                <local:MultiselectCombo x:Name="Size" Margin="231,171,613,363"/>
+
+                <Border x:Name="BorderHeaders" VerticalAlignment="Top" HorizontalAlignment="Center" Height="30" Width="400" Margin="190,171,404,0" BorderThickness="2"  BorderBrush="Pink" CornerRadius="5" Visibility="Hidden">
+                    <TextBox x:Name="Headers" Foreground="White" Background="Black" FontSize="15" FontFamily="Segoe UI Black" Style="{StaticResource TextBoxStyle}" AcceptsReturn="True" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Padding="5,2,0,0"/>
+                </Border>
+                <Border x:Name="BorderCookies" VerticalAlignment="Top" HorizontalAlignment="Center" Height="30" Width="400" Margin="190,293,404,0" BorderThickness="2" BorderBrush="Pink" CornerRadius="5" Visibility="Hidden">
+                    <TextBox x:Name="Cookies" Foreground="White" Background="Black" FontSize="15" FontFamily="Segoe UI Black" Style="{StaticResource TextBoxStyle}" AcceptsReturn="True" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Padding="5,2,0,0"/>
+                </Border>
+
+
+                <ComboBox x:Name="TimeMod"  Foreground="White" FontFamily="Segoe UI Black" FontSize="18" HorizontalAlignment="Left" Margin="231,239,0,0" VerticalAlignment="Top" Width="182" Height="30" Style="{StaticResource ComboBoxSourceStyle}" SelectedIndex="0"  BorderBrush="Pink" SelectionChanged="TimeMod_SelectionChanged" >
+                    <ComboBoxItem Content="Normal"/>
+                    <ComboBoxItem Content="Preload"/>
+                </ComboBox>
+
+                <ComboBox x:Name="LamodaMode"  Foreground="White" FontFamily="Segoe UI Black" FontSize="18" HorizontalAlignment="Left" Margin="231,239,0,0" VerticalAlignment="Top" Width="182" Height="30" Style="{StaticResource ComboBoxSourceStyle}" SelectedIndex="0"  BorderBrush="Pink" SelectionChanged="TimeMod_SelectionChanged" Visibility="Hidden" >
+                    <ComboBoxItem Content="Online"/>
+                    <ComboBoxItem Content="Offline"/>
+
+                </ComboBox>
+
+                <Border  x:Name="DnsCityBorder" HorizontalAlignment="Left" Margin="231,293,0,0" VerticalAlignment="Top" Width="182" Height="30" Visibility="Hidden" BorderBrush="Pink" CornerRadius="5" BorderThickness="2">
+                    <TextBox x:Name="DnsCity"  Foreground="White" FontFamily="Segoe UI Black" FontSize="18"  Style ="{StaticResource TextBoxStyle}" Background="Black">
+
+                    </TextBox>
+                </Border>
+
+                <Label x:Name="LabelPreloadDns" Content="Preload Time" Background="Black" Foreground="White" FontSize="18" FontFamily="Segoe UI Black" HorizontalAlignment="Center" VerticalAlignment="Top" Height="40" Margin="83,231,782,0" Width="129" Visibility="Hidden"></Label>
+
+                <ComboBox x:Name="Shop"  Foreground="White" FontFamily="Segoe UI Black" FontSize="18" HorizontalAlignment="Left" Margin="794,10,0,0" VerticalAlignment="Top" Width="120" Height="30" Style="{StaticResource ComboBoxSourceStyle}" SelectedIndex="0"  BorderBrush="Pink" SelectionChanged="ShopComboboxSelectionChanged" >
+                    <ComboBoxItem Content="SNKRS"/>
+                    <ComboBoxItem Content="DNS"/>
+                    <ComboBoxItem Content="Lamoda"/>
+                    <ComboBoxItem Content="Binance"/>
+                    <ComboBoxItem Content="Citilink"/>
+                </ComboBox>
+
+                <ComboBox x:Name="ChekoutMod"  Foreground="White" FontFamily="Segoe UI Black" FontSize="18" HorizontalAlignment="Left" Margin="765,311,0,0" VerticalAlignment="Top" Width="182" Height="30" Style="{StaticResource ComboBoxSourceStyle}" SelectedIndex="0"  BorderBrush="Pink" SelectionChanged="ChekoutMod_SelectionChanged" >
+                    <ComboBoxItem Content="Classic"/>
+                    <ComboBoxItem Content="Request"/>
+                    <ComboBoxItem Content="DUDOS"/>
+                </ComboBox>
+
+                <ComboBox x:Name="PSVersion"  Foreground="White" FontFamily="Segoe UI Black" FontSize="18" HorizontalAlignment="Left" Margin="765,234,0,0"  VerticalAlignment="Top" Width="182" Height="30" Style="{StaticResource ComboBoxSourceStyle}" SelectedIndex="0"  BorderBrush="Pink" Visibility="Hidden">
+                    <ComboBoxItem Content="Original"/>
+                    <ComboBoxItem Content="Digital"/>
+                </ComboBox>
+
+                <ComboBox x:Name="Mode"  Foreground="White" FontFamily="Segoe UI Black" FontSize="18" HorizontalAlignment="Left" Margin="765,241,0,0" VerticalAlignment="Top" Width="182" Height="30" Style="{StaticResource ComboBoxSourceStyle}" SelectedIndex="0"  BorderBrush="Pink" SelectionChanged="DnsModeSelectionIndexChanged" Visibility="Hidden">
+                    <ComboBoxItem Content="Beer"/>
+                    <ComboBoxItem Content="Pro"/>
+                    <ComboBoxItem Content="Speed(test mode)"/>
+                </ComboBox>
+
+                <ComboBox x:Name="PreloadT" HorizontalAlignment="Left" Margin="231,328,0,0" VerticalAlignment="Top" Width="182" Height="30" Style="{StaticResource ComboBoxSourceStyle}" Foreground="White" FontFamily="Segoe UI Black" FontSize="14" Visibility="Hidden">
+                    <ComboBoxItem Content="5 minutes before"/>
+                    <ComboBoxItem Content="5:30 minutes before"/>
+                    <ComboBoxItem Content="6 minutes before"/>
+                    <ComboBoxItem Content="6:30 minutes before"/>
+                    <ComboBoxItem Content="7 minutes before"/>
+                    <ComboBoxItem Content="7:30 minutes before"/>
+                    <ComboBoxItem Content="8 minutes before"/>
+                    <ComboBoxItem Content="8:30 minutes before"/>
+                    <ComboBoxItem Content="9 minutes before"/>
+                    <ComboBoxItem Content="9:30 minutes before"/>
+                    <ComboBoxItem Content="10 minutes before"/>
+                    <ComboBoxItem Content="10:30 minutes before"/>
+                    <ComboBoxItem Content="11 minutes before"/>
+                    <ComboBoxItem Content="11:30 minutes before"/>
+                    <ComboBoxItem Content="12 minutes before"/>
+                    <ComboBoxItem Content="12:30 minutes before"/>
+                    <ComboBoxItem Content="13 minutes before"/>
+                    <ComboBoxItem Content="13:30 minutes before"/>
+                    <ComboBoxItem Content="14 minutes before"/>
+                    <ComboBoxItem Content="14:30 minutes before"/>
+                    <ComboBoxItem Content="15 minutes before"/>
+                </ComboBox>
+
+                <ComboBox x:Name="PreloadTimeDns" HorizontalAlignment="Left" Margin="231,235,0,0" VerticalAlignment="Top" Width="182" Height="30" Style="{StaticResource ComboBoxSourceStyle}" Foreground="White" FontFamily="Segoe UI Black" FontSize="14" Visibility="Hidden" SelectedIndex="0">
+                    <ComboBoxItem Content="No preload"/>
+                    <ComboBoxItem Content="2 minutes"/>
+                    <ComboBoxItem Content="3 minutes"/>
+                    <ComboBoxItem Content="4 minutes"/>
+                    <ComboBoxItem Content="5 minutes"/>
+                    <ComboBoxItem Content="6 minutes"/>
+                    <ComboBoxItem Content="7 minutes"/>
+                    <ComboBoxItem Content="8 minutes"/>
+                    <ComboBoxItem Content="9 minutes"/>
+                    <ComboBoxItem Content="10 minutes"/>
+                    <ComboBoxItem Content="11 minutes"/>
+                    <ComboBoxItem Content="12 minutes"/>
+                    <ComboBoxItem Content="13 minutes"/>
+                    <ComboBoxItem Content="14 minutes"/>
+                    <ComboBoxItem Content="15 minutes"/>
+                </ComboBox>
+
+
+                <ComboBox x:Name="Proxy" HorizontalAlignment="Left" Margin="231,399,0,0" VerticalAlignment="Top" Width="182" Height="30" Style="{StaticResource ComboBoxSourceStyle}" Foreground="White" FontSize="16" FontFamily="Segoe UI Black" DropDownOpened="Proxy_DropDownOpened" SelectedIndex="0" SelectionChanged="Proxy_SelectionChanged">
+                    <ComboBoxItem Content="Localhost"/>
+                </ComboBox>
+                <ComboBox x:Name="ProxyChoose" HorizontalAlignment="Left" Margin="231,468,0,0" VerticalAlignment="Top" Width="182" Height="30" Style="{StaticResource ComboBoxSourceStyle}" DropDownOpened="ProxyChoose_DropDownOpened" Visibility="Hidden" Foreground="White" FontSize="15" FontFamily="Segoe UI Black" SelectedIndex="0">
+                    <ComboBoxItem Content ="ALL"/>
+                </ComboBox>
+                <ComboBox x:Name="Delay" HorizontalAlignment="Left" Margin="794,272,0,0" VerticalAlignment="Top" Width="100" Height="30" Style="{StaticResource ComboBoxSourceStyle}" SelectedIndex="0"  Foreground="White" FontSize="16" FontFamily="Segoe UI Black" Visibility="Hidden">
+                    <ComboBoxItem Content="None"/>
+                    <ComboBoxItem Content="10"/>
+                    <ComboBoxItem Content="25"/>
+                    <ComboBoxItem Content="50"/>
+                    <ComboBoxItem Content="75"/>
+                    <ComboBoxItem Content="100"/>
+                    <ComboBoxItem Content="200"/>
+                    <ComboBoxItem Content="300"/>
+                </ComboBox>
+                <ComboBox x:Name="Profile" HorizontalAlignment="Left" Margin="765,311,0,0" VerticalAlignment="Top" Width="182" Height="30" Style="{StaticResource ComboBoxSourceStyle}" Foreground="White" FontSize="15" FontFamily="Segoe UI Black" DropDownOpened="Profile_DropDownOpened"></ComboBox>
+                <ComboBox x:Name="Accounts" HorizontalAlignment="Left" Margin="765,374,0,0" VerticalAlignment="Top" Width="182" Height="30" Style="{StaticResource ComboBoxSourceStyle}" DropDownOpened="Accounts_DropDownOpened" Foreground="White" FontSize="15" FontFamily="Segoe UI Black" SelectionChanged="Accounts_SelectionChanged"/>
+                <ComboBox x:Name="AccountsChoose" HorizontalAlignment="Left" Margin="765,436,0,0" VerticalAlignment="Top" Width="182" Height="30" Style="{StaticResource ComboBoxSourceStyle}" Foreground="White" FontSize="15" FontFamily="Segoe UI Black" SelectedIndex="0" DropDownOpened="AccountsChoose_DropDownOpened">
+                    <ComboBoxItem Content ="ALL"/>
+                </ComboBox>
+                <Border x:Name="TimeBorder" Margin="742,235,47,299"  Height="30" BorderThickness="2" BorderBrush="Pink" CornerRadius="5">
+                    <Grid Margin="0,0,-22,0">
+
+                        <TextBox x:Name="DropTimeHou" Foreground="White" Background="Black" FontSize="15" FontFamily="Segoe UI Black" Style="{StaticResource TextBoxStyle}" MaxLength="2" TextChanged="DropTime_TextChanged" Margin="0,0,192,0" Padding="5,2,0,0"/>
+                        <Label Content=":"  Foreground="White"  FontSize="18" FontFamily="Segoe UI Black" Margin="30,-7,175,0" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+                        <TextBox x:Name="DropTimeMin" Foreground="White" Background="Black" FontSize="15" FontFamily="Segoe UI Black" Style="{StaticResource TextBoxStyle}" MaxLength="2" Margin="47,0,145,0" TextChanged="DropTimeMin_TextChanged" Padding="5,2,0,0"/>
+                        <Label Content=":"  Foreground="White"  FontSize="18" FontFamily="Segoe UI Black" Margin="77,-7,128,0" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+                        <TextBox x:Name="DropTimeSec" Foreground="White" Background="Black" FontSize="15" FontFamily="Segoe UI Black" Style="{StaticResource TextBoxStyle}" MaxLength="2" Margin="94,0,98,0" TextChanged="DropTimeSec_TextChanged" Padding="5,2,0,0"/>
+                        <Label Content=":"  Foreground="White"  FontSize="18" FontFamily="Segoe UI Black" Margin="124,-7,81,0" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+                        <TextBox x:Name="DropTimeMili" Foreground="White" Background="Black" FontSize="15" FontFamily="Segoe UI Black" Style="{StaticResource TextBoxStyle}" MaxLength="3" Margin="141,0,0,0" TextChanged="DropTimeMili_TextChanged" Padding="5,2,0,0" HorizontalAlignment="Left" Width="60"/>
+
+                    </Grid>
+                </Border>
+                <Border x:Name="AmounytBorder" Height="30" Margin="765,311,179,223" BorderThickness="2" BorderBrush="Pink" CornerRadius="5" Visibility="Hidden">
+                    <TextBox x:Name="Amount" Foreground="White" Background="Black" FontSize="15" FontFamily="Segoe UI Black" Text="1" Style="{StaticResource TextBoxStyle}" Padding="5,2,0,0"/>
+                </Border>
+
+                <Border x:Name="TasksBord" Height="30" Margin="546,510,398,24" BorderThickness="2" BorderBrush="Pink" CornerRadius="5">
+                    <TextBox x:Name="Tasks" Foreground="White" Background="Black" FontSize="15" FontFamily="Segoe UI Black" Text="1" Style="{StaticResource TextBoxStyle}" Padding="5,2,0,0"/>
+                </Border>
+                <Button x:Name="AddTask" Content="ADD" HorizontalAlignment="Left" Margin="679,507,0,0" VerticalAlignment="Top" Height="32" Width="70" BorderBrush="Pink" BorderThickness="2" Background="Black" Foreground="White" FontSize="16" FontFamily="Segoe UI Black" Click="AddTask_Click">
+                    <Button.Resources>
+                        <Style TargetType="{x:Type Border}">
+                            <Setter Property="CornerRadius" Value="5"/>
+                        </Style>
+                    </Button.Resources>
+                    <Button.Style>
+                        <StaticResource ResourceKey="DefaultButtonStyle"/>
+                    </Button.Style>
+                </Button>
+
+                <Button x:Name="EditTask" Content="EDIT" HorizontalAlignment="Left" Margin="711,510,0,0" VerticalAlignment="Top" Height="32" Width="70" BorderBrush="Pink" BorderThickness="2" Background="Black" Foreground="White" FontSize="16" FontFamily="Segoe UI Black" Click="EditTask_Click" Visibility="Hidden">
+                    <Button.Resources>
+                        <Style TargetType="{x:Type Border}">
+                            <Setter Property="CornerRadius" Value="5"/>
+                        </Style>
+                    </Button.Resources>
+                    <Button.Style>
+                        <StaticResource ResourceKey="DefaultButtonStyle"/>
+                    </Button.Style>
+                </Button>
+
+                <Label x:Name="TaskLabel" Content="TASKS" Foreground="White"  FontSize ="18" FontFamily="Segoe UI Black" HorizontalAlignment="Left" Margin="448,508,0,0" VerticalAlignment="Top" Width="92"/>
+                <Label x:Name="LabelTimeMod" Content="Time Mode" Foreground="White"  FontSize ="18" FontFamily="Segoe UI Black" HorizontalAlignment="Left" Margin="97,237,0,0" VerticalAlignment="Top" Width="114"/>
+                <Label x:Name="LabelCookie" Content="Cookie" Foreground="White"  FontSize ="18" FontFamily="Segoe UI Black" HorizontalAlignment="Left" Margin="97,289,0,0" VerticalAlignment="Top" Width="114" Visibility="Hidden"/>
+                <Label x:Name="LabelLamodaMod" Content="Payment method" Foreground="White"  FontSize ="18" FontFamily="Segoe UI Black" HorizontalAlignment="Left" Margin="47,237,0,0" VerticalAlignment="Top" Width="165" Visibility="Hidden"/>
+                <Label x:Name="LabelProxy" Content="Proxy" Foreground="White"  FontSize ="18" FontFamily="Segoe UI Black" HorizontalAlignment="Left" Margin="97,395,0,0" VerticalAlignment="Top" Width="114"/>
+                <Label x:Name="LabelDropTime" Content="DropTime" Foreground="White"  FontSize ="18" FontFamily="Segoe UI Black" HorizontalAlignment="Left" Margin="623,232,0,0" VerticalAlignment="Top" Width="114"/>
+                <Label x:Name="LabelSize" Content="Size" Foreground="White"  FontSize ="18" FontFamily="Segoe UI Black" HorizontalAlignment="Left" Margin="97,167,0,0" VerticalAlignment="Top" Width="57"/>
+                <Label x:Name="LabelHeaders" Content="Headers" Foreground="White"  FontSize ="18" FontFamily="Segoe UI Black" HorizontalAlignment="Left" Margin="97,167,0,0" VerticalAlignment="Top" Width="90" Visibility="Hidden"/>
+                <Label x:Name="LabelAccounts" Content="Accounts" Foreground="White"  FontSize ="18" FontFamily="Segoe UI Black" HorizontalAlignment="Left" Margin="638,374,0,0" VerticalAlignment="Top" Width="92"/>
+                <Label x:Name="LabelProfile" Content="Profile" Foreground="White"  FontSize ="18" FontFamily="Segoe UI Black" HorizontalAlignment="Left" Margin="638,304,0,0" VerticalAlignment="Top" Width="92"/>
+                <Label x:Name="LabelAmount" Content="Amount" Foreground="White"  FontSize ="18" FontFamily="Segoe UI Black" HorizontalAlignment="Left" Margin="638,304,0,0" VerticalAlignment="Top" Width="92" Visibility="Hidden"/>
+                <Label x:Name="LabelMode" Content="Checkout mode" Foreground="White"  FontSize ="18" FontFamily="Segoe UI Black" HorizontalAlignment="Left" Margin="566,167,0,0" VerticalAlignment="Top" Width="148"/>
+                <Label x:Name="LabelPsVersion" Content="PsVersion" Foreground="White"  FontSize ="18" FontFamily="Segoe UI Black" HorizontalAlignment="Left" Margin="623,232,0,0" VerticalAlignment="Top" Width="111" Visibility="Hidden"/>
+                <Label x:Name="LabelShop" Content="Shop" Foreground="White"  FontSize ="18" FontFamily="Segoe UI Black" HorizontalAlignment="Left" Margin="701,6,0,0" VerticalAlignment="Top" Width="80"/>
+                <Label x:Name="LabelDnsMod" Content="Mode" Foreground="White"  FontSize ="18" FontFamily="Segoe UI Black" HorizontalAlignment="Left" Margin="650,235,0,0" VerticalAlignment="Top" Width="80" Visibility="Hidden"/>
+            </Grid>
+        </Border>
+        <StackPanel x:Name="AlertStack" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="320" Margin="0,0,0,65"  />
+
+
+    </Grid>
+</Page>

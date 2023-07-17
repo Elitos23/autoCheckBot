@@ -1,0 +1,416 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PuppeteerSharp.Contrib.Extensions.Unsafe</name>
+    </assembly>
+    <members>
+        <member name="T:PuppeteerSharp.Contrib.Extensions.ElementHandleAttributeExtensions">
+            <summary>
+            Extension methods for accessing attributes on <see cref="T:PuppeteerSharp.ElementHandle"/>.
+            </summary>
+            <seealso href="https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes"/>
+        </member>
+        <member name="M:PuppeteerSharp.Contrib.Extensions.ElementHandleAttributeExtensions.Id(PuppeteerSharp.ElementHandle)">
+            <summary>
+            Id of the element.
+            </summary>
+            <param name="elementHandle">An <see cref="T:PuppeteerSharp.ElementHandle"/></param>
+            <returns>The element's <c>id</c>, or <c>null</c> if the attribute is missing.</returns>
+        </member>
+        <member name="M:PuppeteerSharp.Contrib.Extensions.ElementHandleAttributeExtensions.Id(System.Threading.Tasks.Task{PuppeteerSharp.ElementHandle})">
+            <summary>
+            Id of the element.
+            </summary>
+            <param name="elementHandleTask">An <see cref="T:PuppeteerSharp.ElementHandle"/></param>
+            <returns>The element's <c>id</c>, or <c>null</c> if the attribute is missing.</returns>
+        </member>
+        <member name="M:PuppeteerSharp.Contrib.Extensions.ElementHandleAttributeExtensions.Name(PuppeteerSharp.ElementHandle)">
+            <summary>
+            Name of the element.
+            </summary>
+            <param name="elementHandle">An <see cref="T:PuppeteerSharp.ElementHandle"/></param>
+            <returns>The element's <c>name</c>, or <c>null</c> if the attribute is missing.</returns>
+            <remarks><![CDATA[Elements: <button>, <form>, <fieldset>, <iframe>, <input>, <keygen>, <object>, <output>, <select>, <textarea>, <map>, <meta>, <param>]]></remarks>
+        </member>
+        <member name="M:PuppeteerSharp.Contrib.Extensions.ElementHandleAttributeExtensions.Name(System.Threading.Tasks.Task{PuppeteerSharp.ElementHandle})">
+            <summary>
+            Name of the element.
+            </summary>
+            <param name="elementHandleTask">An <see cref="T:PuppeteerSharp.ElementHandle"/></param>
+            <returns>The element's <c>name</c>, or <c>null</c> if the attribute is missing.</returns>
+            <remarks><![CDATA[Elements: <button>, <form>, <fieldset>, <iframe>, <input>, <keygen>, <object>, <output>, <select>, <textarea>, <map>, <meta>, <param>]]></remarks>
+        </member>
+        <member name="M:PuppeteerSharp.Contrib.Extensions.ElementHandleAttributeExtensions.Value(PuppeteerSharp.ElementHandle)">
+            <summary>
+            Value of the element.
+            </summary>
+            <param name="elementHandle">An <see cref="T:PuppeteerSharp.ElementHandle"/></param>
+            <returns>The element's <c>value</c>, or <c>null</c> if the attribute is missing.</returns>
+            <remarks><![CDATA[Elements: <button>, <option>, <input>, <li>, <meter>, <progress>, <param>]]></remarks>
+        </member>
+        <member name="M:PuppeteerSharp.Contrib.Extensions.ElementHandleAttributeExtensions.Value(System.Threading.Tasks.Task{PuppeteerSharp.ElementHandle})">
+            <summary>
+            Value of the element.
+            </summary>
+            <param name="elementHandleTask">An <see cref="T:PuppeteerSharp.ElementHandle"/></param>
+            <returns>The element's <c>value</c>, or <c>null</c> if the attribute is missing.</returns>
+            <remarks><![CDATA[Elements: <button>, <option>, <input>, <li>, <meter>, <progress>, <param>]]></remarks>
+        </member>
+        <member name="M:PuppeteerSharp.Contrib.Extensions.ElementHandleAttributeExtensions.Href(PuppeteerSharp.ElementHandle)">
+            <summary>
+            Href of the element.
+            </summary>
+            <param name="elementHandle">An <see cref="T:PuppeteerSharp.ElementHandle"/></param>
+            <returns>The element's <c>href</c>, or <c>null</c> if the attribute is missing.</returns>
+            <remarks><![CDATA[Elements: <a>, <area>, <base>, <link>]]></remarks>
+        </member>
+        <member name="M:PuppeteerSharp.Contrib.Extensions.ElementHandleAttributeExtensions.Href(System.Threading.Tasks.Task{PuppeteerSharp.ElementHandle})">
+            <summary>
+            Href of the element.
+            </summary>
+            <param name="elementHandleTask">An <see cref="T:PuppeteerSharp.ElementHandle"/></param>
+            <returns>The element's <c>href</c>, or <c>null</c> if the attribute is missing.</returns>
+            <remarks><![CDATA[Elements: <a>, <area>, <base>, <link>]]></remarks>
+        </member>
+        <member name="M:PuppeteerSharp.Contrib.Extensions.ElementHandleAttributeExtensions.Src(PuppeteerSharp.ElementHandle)">
+            <summary>
+            Src of the element.
+            </summary>
+            <param name="elementHandle">An <see cref="T:PuppeteerSharp.ElementHandle"/></param>
+            <returns>The element's <c>src</c>, or <c>null</c> if the attribute is missing.</returns>
+            <remarks><![CDATA[Elements: <audio>, <embed>, <iframe>, <img>, <input>, <script>, <source>, <track>, <video>]]></remarks>
+        </member>
+        <member name="M:PuppeteerSharp.Contrib.Extensions.ElementHandleAttributeExtensions.Src(System.Threading.Tasks.Task{PuppeteerSharp.ElementHandle})">
+            <summary>
+            Src of the element.
+            </summary>
+            <param name="elementHandleTask">An <see cref="T:PuppeteerSharp.ElementHandle"/></param>
+            <returns>The element's <c>src</c>, or <c>null</c> if the attribute is missing.</returns>
+            <remarks><![CDATA[Elements: <audio>, <embed>, <iframe>, <img>, <input>, <script>, <source>, <track>, <video>]]></remarks>
+        </member>
+        <member name="M:PuppeteerSharp.Contrib.Extensions.ElementHandleAttributeExtensions.HasAttribute(PuppeteerSharp.ElementHandle,System.String)">
+            <summary>
+            Indicates whether the element has the specified attribute or not.
+            </summary>
+            <param name="elementHandle">An <see cref="T:PuppeteerSharp.ElementHandle"/></param>
+            <param name="name">The attribute name</param>
+            <returns><c>true</c> if the element has the specified attribute</returns>
+            <seealso href="https://developer.mozilla.org/en-US/docs/Web/API/Element/hasAttribute"/>
+        </member>
+        <member name="M:PuppeteerSharp.Contrib.Extensions.ElementHandleAttributeExtensions.HasAttribute(System.Threading.Tasks.Task{PuppeteerSharp.ElementHandle},System.String)">
+            <summary>
+            Indicates whether the element has the specified attribute or not.
+            </summary>
+            <param name="elementHandleTask">An <see cref="T:PuppeteerSharp.ElementHandle"/></param>
+            <param name="name">The attribute name</param>
+            <returns><c>true</c> if the element has the specified attribute</returns>
+            <seealso href="https://developer.mozilla.org/en-US/docs/Web/API/Element/hasAttribute"/>
+        </member>
+        <member name="M:PuppeteerSharp.Contrib.Extensions.ElementHandleAttributeExtensions.GetAttribute(PuppeteerSharp.ElementHandle,System.String)">
+            <summary>
+            The value of a specified attribute on the element.
+            </summary>
+            <param name="elementHandle">An <see cref="T:PuppeteerSharp.ElementHandle"/></param>
+            <param name="name">The attribute name</param>
+            <returns>The attribute value</returns>
+            <seealso href="https://developer.mozilla.org/en-US/docs/Web/API/Element/getAttribute"/>
+        </member>
+        <member name="M:PuppeteerSharp.Contrib.Extensions.ElementHandleAttributeExtensions.GetAttribute(System.Threading.Tasks.Task{PuppeteerSharp.ElementHandle},System.String)">
+            <summary>
+            The value of a specified attribute on the element.
+            </summary>
+            <param name="elementHandleTask">An <see cref="T:PuppeteerSharp.ElementHandle"/></param>
+            <param name="name">The attribute name</param>
+            <returns>The attribute value</returns>
+            <seealso href="https://developer.mozilla.org/en-US/docs/Web/API/Element/getAttribute"/>
+        </member>
+        <member name="T:PuppeteerSharp.Contrib.Extensions.ElementHandleExtensions">
+            <summary>
+            Extension methods for <see cref="T:PuppeteerSharp.ElementHandle"/>.
+            </summary>
+        </member>
+        <member name="M:PuppeteerSharp.Contrib.Extensions.ElementHandleExtensions.Exists(System.Threading.Tasks.Task{PuppeteerSharp.ElementHandle})">
+            <summary>
+            Indicates whether the element exists or not. A non null <see cref="T:PuppeteerSharp.ElementHandle"/> is considered existing.
+            </summary>
+            <param name="elementHandleTask">An <see cref="T:PuppeteerSharp.ElementHandle"/></param>
+            <returns><c>true</c> if the element exists</returns>
+        </member>
+        <member name="M:PuppeteerSharp.Contrib.Extensions.ElementHandleExtensions.InnerHtml(PuppeteerSharp.ElementHandle)">
+            <summary>
+            InnerHtml of the element.
+            </summary>
+            <param name="elementHandle">An <see cref="T:PuppeteerSharp.ElementHandle"/></param>
+            <returns>The element's <c>innerHTML</c></returns>
+            <seealso href="https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML"/>
+        </member>
+        <member name="M:PuppeteerSharp.Contrib.Extensions.ElementHandleExtensions.InnerHtml(System.Threading.Tasks.Task{PuppeteerSharp.ElementHandle})">
+            <summary>
+            InnerHtml of the element.
+            </summary>
+            <param name="elementHandleTask">An <see cref="T:PuppeteerSharp.ElementHandle"/></param>
+            <returns>The element's <c>innerHTML</c></returns>
+            <seealso href="https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML"/>
+        </member>
+        <member name="M:PuppeteerSharp.Contrib.Extensions.ElementHandleExtensions.OuterHtml(PuppeteerSharp.ElementHandle)">
+            <summary>
+            OuterHtml of the element.
+            </summary>
+            <param name="elementHandle">An <see cref="T:PuppeteerSharp.ElementHandle"/></param>
+            <returns>The element's <c>outerHTML</c></returns>
+            <seealso href="https://developer.mozilla.org/en-US/docs/Web/API/Element/outerHTML"/>
+        </member>
+        <member name="M:PuppeteerSharp.Contrib.Extensions.ElementHandleExtensions.OuterHtml(System.Threading.Tasks.Task{PuppeteerSharp.ElementHandle})">
+            <summary>
+            OuterHtml of the element.
+            </summary>
+            <param name="elementHandleTask">An <see cref="T:PuppeteerSharp.ElementHandle"/></param>
+            <returns>The element's <c>outerHTML</c></returns>
+            <seealso href="https://developer.mozilla.org/en-US/docs/Web/API/Element/outerHTML"/>
+        </member>
+        <member name="M:PuppeteerSharp.Contrib.Extensions.ElementHandleExtensions.TextContent(PuppeteerSharp.ElementHandle)">
+            <summary>
+            TextContent of the element.
+            </summary>
+            <param name="elementHandle">An <see cref="T:PuppeteerSharp.ElementHandle"/></param>
+            <returns>The element's <c>textContent</c></returns>
+            <seealso href="https://developer.mozilla.org/en-US/docs/Web/API/Node/textContent"/>
+        </member>
+        <member name="M:PuppeteerSharp.Contrib.Extensions.ElementHandleExtensions.TextContent(System.Threading.Tasks.Task{PuppeteerSharp.ElementHandle})">
+            <summary>
+            TextContent of the element.
+            </summary>
+            <param name="elementHandleTask">An <see cref="T:PuppeteerSharp.ElementHandle"/></param>
+            <returns>The element's <c>textContent</c></returns>
+            <seealso href="https://developer.mozilla.org/en-US/docs/Web/API/Node/textContent"/>
+        </member>
+        <member name="M:PuppeteerSharp.Contrib.Extensions.ElementHandleExtensions.InnerText(PuppeteerSharp.ElementHandle)">
+            <summary>
+            InnerText of the element.
+            </summary>
+            <param name="elementHandle">An <see cref="T:PuppeteerSharp.ElementHandle"/></param>
+            <returns>The element's <c>innerText</c></returns>
+            <seealso href="https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/innerText"/>
+        </member>
+        <member name="M:PuppeteerSharp.Contrib.Extensions.ElementHandleExtensions.InnerText(System.Threading.Tasks.Task{PuppeteerSharp.ElementHandle})">
+            <summary>
+            InnerText of the element.
+            </summary>
+            <param name="elementHandleTask">An <see cref="T:PuppeteerSharp.ElementHandle"/></param>
+            <returns>The element's <c>innerText</c></returns>
+            <seealso href="https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/innerText"/>
+        </member>
+        <member name="M:PuppeteerSharp.Contrib.Extensions.ElementHandleExtensions.HasContent(PuppeteerSharp.ElementHandle,System.String,System.String)">
+            <summary>
+            Indicates whether the element has the specified content or not.
+            </summary>
+            <param name="elementHandle">An <see cref="T:PuppeteerSharp.ElementHandle"/></param>
+            <param name="regex">A regular expression to test against <c>element.textContent</c></param>
+            <param name="flags">A set of flags for the regular expression</param>
+            <returns><c>true</c> if the element has the specified content</returns>
+            <seealso href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp"/>
+        </member>
+        <member name="M:PuppeteerSharp.Contrib.Extensions.ElementHandleExtensions.HasContent(System.Threading.Tasks.Task{PuppeteerSharp.ElementHandle},System.String,System.String)">
+            <summary>
+            Indicates whether the element has the specified content or not.
+            </summary>
+            <param name="elementHandleTask">An <see cref="T:PuppeteerSharp.ElementHandle"/></param>
+            <param name="regex">A regular expression to test against <c>element.textContent</c></param>
+            <param name="flags">A set of flags for the regular expression</param>
+            <returns><c>true</c> if the element has the specified content</returns>
+            <seealso href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp"/>
+        </member>
+        <member name="M:PuppeteerSharp.Contrib.Extensions.ElementHandleExtensions.ClassName(PuppeteerSharp.ElementHandle)">
+            <summary>
+            ClassName of the element.
+            </summary>
+            <param name="elementHandle">An <see cref="T:PuppeteerSharp.ElementHandle"/></param>
+            <returns>The element's <c>className</c></returns>
+            <seealso href="https://developer.mozilla.org/en-US/docs/Web/API/Element/className"/>
+        </member>
+        <member name="M:PuppeteerSharp.Contrib.Extensions.ElementHandleExtensions.ClassName(System.Threading.Tasks.Task{PuppeteerSharp.ElementHandle})">
+            <summary>
+            ClassName of the element.
+            </summary>
+            <param name="elementHandleTask">An <see cref="T:PuppeteerSharp.ElementHandle"/></param>
+            <returns>The element's <c>className</c></returns>
+            <seealso href="https://developer.mozilla.org/en-US/docs/Web/API/Element/className"/>
+        </member>
+        <member name="M:PuppeteerSharp.Contrib.Extensions.ElementHandleExtensions.ClassList(PuppeteerSharp.ElementHandle)">
+            <summary>
+            ClassList of the element.
+            </summary>
+            <param name="elementHandle">An <see cref="T:PuppeteerSharp.ElementHandle"/></param>
+            <returns>The element's <c>classList</c></returns>
+            <seealso href="https://developer.mozilla.org/en-US/docs/Web/API/Element/classList"/>
+        </member>
+        <member name="M:PuppeteerSharp.Contrib.Extensions.ElementHandleExtensions.ClassList(System.Threading.Tasks.Task{PuppeteerSharp.ElementHandle})">
+            <summary>
+            ClassList of the element.
+            </summary>
+            <param name="elementHandleTask">An <see cref="T:PuppeteerSharp.ElementHandle"/></param>
+            <returns>The element's <c>classList</c></returns>
+            <seealso href="https://developer.mozilla.org/en-US/docs/Web/API/Element/classList"/>
+        </member>
+        <member name="M:PuppeteerSharp.Contrib.Extensions.ElementHandleExtensions.HasClass(PuppeteerSharp.ElementHandle,System.String)">
+            <summary>
+            Indicates whether the element has the specified class or not.
+            </summary>
+            <param name="elementHandle">An <see cref="T:PuppeteerSharp.ElementHandle"/></param>
+            <param name="className">The class name</param>
+            <returns><c>true</c> if the element has the specified class</returns>
+        </member>
+        <member name="M:PuppeteerSharp.Contrib.Extensions.ElementHandleExtensions.HasClass(System.Threading.Tasks.Task{PuppeteerSharp.ElementHandle},System.String)">
+            <summary>
+            Indicates whether the element has the specified class or not.
+            </summary>
+            <param name="elementHandleTask">An <see cref="T:PuppeteerSharp.ElementHandle"/></param>
+            <param name="className">The class name</param>
+            <returns><c>true</c> if the element has the specified class</returns>
+        </member>
+        <member name="M:PuppeteerSharp.Contrib.Extensions.ElementHandleExtensions.IsVisible(PuppeteerSharp.ElementHandle)">
+            <summary>
+            Indicates whether the element is visible or not.
+            </summary>
+            <param name="elementHandle">An <see cref="T:PuppeteerSharp.ElementHandle"/></param>
+            <returns><c>true</c> if the element is visible</returns>
+            <seealso href="https://blog.jquery.com/2009/02/20/jquery-1-3-2-released/#visible-hidden-overhauled"/>
+        </member>
+        <member name="M:PuppeteerSharp.Contrib.Extensions.ElementHandleExtensions.IsVisible(System.Threading.Tasks.Task{PuppeteerSharp.ElementHandle})">
+            <summary>
+            Indicates whether the element is visible or not.
+            </summary>
+            <param name="elementHandleTask">An <see cref="T:PuppeteerSharp.ElementHandle"/></param>
+            <returns><c>true</c> if the element is visible</returns>
+            <seealso href="https://blog.jquery.com/2009/02/20/jquery-1-3-2-released/#visible-hidden-overhauled"/>
+        </member>
+        <member name="M:PuppeteerSharp.Contrib.Extensions.ElementHandleExtensions.IsHidden(PuppeteerSharp.ElementHandle)">
+            <summary>
+            Indicates whether the element is hidden or not. This is the logical negation of <see cref="M:PuppeteerSharp.Contrib.Extensions.ElementHandleExtensions.IsVisible(PuppeteerSharp.ElementHandle)"/>.
+            </summary>
+            <param name="elementHandle">An <see cref="T:PuppeteerSharp.ElementHandle"/></param>
+            <returns><c>true</c> if the element is hidden</returns>
+        </member>
+        <member name="M:PuppeteerSharp.Contrib.Extensions.ElementHandleExtensions.IsHidden(System.Threading.Tasks.Task{PuppeteerSharp.ElementHandle})">
+            <summary>
+            Indicates whether the element is hidden or not. This is the logical negation of <see cref="M:PuppeteerSharp.Contrib.Extensions.ElementHandleExtensions.IsVisible(System.Threading.Tasks.Task{PuppeteerSharp.ElementHandle})"/>.
+            </summary>
+            <param name="elementHandleTask">An <see cref="T:PuppeteerSharp.ElementHandle"/></param>
+            <returns><c>true</c> if the element is hidden</returns>
+        </member>
+        <member name="M:PuppeteerSharp.Contrib.Extensions.ElementHandleExtensions.IsSelected(PuppeteerSharp.ElementHandle)">
+            <summary>
+            Indicates whether the element is selected or not.
+            </summary>
+            <param name="elementHandle">An <see cref="T:PuppeteerSharp.ElementHandle"/></param>
+            <returns><c>true</c> if the element is selected</returns>
+            <remarks><![CDATA[Elements: <option>]]></remarks>
+        </member>
+        <member name="M:PuppeteerSharp.Contrib.Extensions.ElementHandleExtensions.IsSelected(System.Threading.Tasks.Task{PuppeteerSharp.ElementHandle})">
+            <summary>
+            Indicates whether the element is selected or not.
+            </summary>
+            <param name="elementHandleTask">An <see cref="T:PuppeteerSharp.ElementHandle"/></param>
+            <returns><c>true</c> if the element is selected</returns>
+            <remarks><![CDATA[Elements: <option>]]></remarks>
+        </member>
+        <member name="M:PuppeteerSharp.Contrib.Extensions.ElementHandleExtensions.IsChecked(PuppeteerSharp.ElementHandle)">
+            <summary>
+            Indicates whether the element is checked or not.
+            </summary>
+            <param name="elementHandle">An <see cref="T:PuppeteerSharp.ElementHandle"/></param>
+            <returns><c>true</c> if the element is checked</returns>
+            <remarks><![CDATA[Elements: <command>, <input>]]></remarks>
+        </member>
+        <member name="M:PuppeteerSharp.Contrib.Extensions.ElementHandleExtensions.IsChecked(System.Threading.Tasks.Task{PuppeteerSharp.ElementHandle})">
+            <summary>
+            Indicates whether the element is checked or not.
+            </summary>
+            <param name="elementHandleTask">An <see cref="T:PuppeteerSharp.ElementHandle"/></param>
+            <returns><c>true</c> if the element is checked</returns>
+            <remarks><![CDATA[Elements: <command>, <input>]]></remarks>
+        </member>
+        <member name="M:PuppeteerSharp.Contrib.Extensions.ElementHandleExtensions.IsDisabled(PuppeteerSharp.ElementHandle)">
+            <summary>
+            Indicates whether the element is disabled or not.
+            </summary>
+            <param name="elementHandle">An <see cref="T:PuppeteerSharp.ElementHandle"/></param>
+            <returns><c>true</c> if the element is disabled</returns>
+            <remarks><![CDATA[Elements: <button>, <command>, <fieldset>, <input>, <keygen>, <optgroup>, <option>, <select>, <textarea>]]></remarks>
+        </member>
+        <member name="M:PuppeteerSharp.Contrib.Extensions.ElementHandleExtensions.IsDisabled(System.Threading.Tasks.Task{PuppeteerSharp.ElementHandle})">
+            <summary>
+            Indicates whether the element is disabled or not.
+            </summary>
+            <param name="elementHandleTask">An <see cref="T:PuppeteerSharp.ElementHandle"/></param>
+            <returns><c>true</c> if the element is disabled</returns>
+            <remarks><![CDATA[Elements: <button>, <command>, <fieldset>, <input>, <keygen>, <optgroup>, <option>, <select>, <textarea>]]></remarks>
+        </member>
+        <member name="M:PuppeteerSharp.Contrib.Extensions.ElementHandleExtensions.IsEnabled(PuppeteerSharp.ElementHandle)">
+            <summary>
+            Indicates whether the element is enabled or not. This is the logical negation of <see cref="M:PuppeteerSharp.Contrib.Extensions.ElementHandleExtensions.IsDisabled(PuppeteerSharp.ElementHandle)"/>.
+            </summary>
+            <param name="elementHandle">An <see cref="T:PuppeteerSharp.ElementHandle"/></param>
+            <returns><c>true</c> if the element is enabled</returns>
+            <remarks><![CDATA[Elements: <button>, <command>, <fieldset>, <input>, <keygen>, <optgroup>, <option>, <select>, <textarea>]]></remarks>
+        </member>
+        <member name="M:PuppeteerSharp.Contrib.Extensions.ElementHandleExtensions.IsEnabled(System.Threading.Tasks.Task{PuppeteerSharp.ElementHandle})">
+            <summary>
+            Indicates whether the element is enabled or not. This is the logical negation of <see cref="M:PuppeteerSharp.Contrib.Extensions.ElementHandleExtensions.IsDisabled(System.Threading.Tasks.Task{PuppeteerSharp.ElementHandle})"/>.
+            </summary>
+            <param name="elementHandleTask">An <see cref="T:PuppeteerSharp.ElementHandle"/></param>
+            <returns><c>true</c> if the element is enabled</returns>
+            <remarks><![CDATA[Elements: <button>, <command>, <fieldset>, <input>, <keygen>, <optgroup>, <option>, <select>, <textarea>]]></remarks>
+        </member>
+        <member name="M:PuppeteerSharp.Contrib.Extensions.ElementHandleExtensions.IsReadOnly(PuppeteerSharp.ElementHandle)">
+            <summary>
+            Indicates whether the element is read-only or not.
+            </summary>
+            <param name="elementHandle">An <see cref="T:PuppeteerSharp.ElementHandle"/></param>
+            <returns><c>true</c> if the element is read-only</returns>
+            <remarks><![CDATA[Elements: <input>, <textarea>]]></remarks>
+        </member>
+        <member name="M:PuppeteerSharp.Contrib.Extensions.ElementHandleExtensions.IsReadOnly(System.Threading.Tasks.Task{PuppeteerSharp.ElementHandle})">
+            <summary>
+            Indicates whether the element is read-only or not.
+            </summary>
+            <param name="elementHandleTask">An <see cref="T:PuppeteerSharp.ElementHandle"/></param>
+            <returns><c>true</c> if the element is read-only</returns>
+            <remarks><![CDATA[Elements: <input>, <textarea>]]></remarks>
+        </member>
+        <member name="M:PuppeteerSharp.Contrib.Extensions.ElementHandleExtensions.IsRequired(PuppeteerSharp.ElementHandle)">
+            <summary>
+            Indicates whether the element is required or not.
+            </summary>
+            <param name="elementHandle">An <see cref="T:PuppeteerSharp.ElementHandle"/></param>
+            <returns><c>true</c> if the element is required</returns>
+            <remarks><![CDATA[Elements: <input>, <select>, <textarea>]]></remarks>
+        </member>
+        <member name="M:PuppeteerSharp.Contrib.Extensions.ElementHandleExtensions.IsRequired(System.Threading.Tasks.Task{PuppeteerSharp.ElementHandle})">
+            <summary>
+            Indicates whether the element is required or not.
+            </summary>
+            <param name="elementHandleTask">An <see cref="T:PuppeteerSharp.ElementHandle"/></param>
+            <returns><c>true</c> if the element is required</returns>
+            <remarks><![CDATA[Elements: <input>, <select>, <textarea>]]></remarks>
+        </member>
+        <member name="M:PuppeteerSharp.Contrib.Extensions.ElementHandleExtensions.HasFocus(PuppeteerSharp.ElementHandle)">
+            <summary>
+            Indicates whether the element has focus or not.
+            </summary>
+            <param name="elementHandle">An <see cref="T:PuppeteerSharp.ElementHandle"/></param>
+            <returns><c>true</c> if the element has focus</returns>
+            <remarks><![CDATA[Elements: <button>, <input>, <keygen>, <select>, <textarea>]]></remarks>
+            <seealso href="https://developer.mozilla.org/en-US/docs/Web/API/DocumentOrShadowRoot/activeElement"/>
+        </member>
+        <member name="M:PuppeteerSharp.Contrib.Extensions.ElementHandleExtensions.HasFocus(System.Threading.Tasks.Task{PuppeteerSharp.ElementHandle})">
+            <summary>
+            Indicates whether the element has focus or not.
+            </summary>
+            <param name="elementHandleTask">An <see cref="T:PuppeteerSharp.ElementHandle"/></param>
+            <returns><c>true</c> if the element has focus</returns>
+            <remarks><![CDATA[Elements: <button>, <input>, <keygen>, <select>, <textarea>]]></remarks>
+            <seealso href="https://developer.mozilla.org/en-US/docs/Web/API/DocumentOrShadowRoot/activeElement"/>
+        </member>
+    </members>
+</doc>
